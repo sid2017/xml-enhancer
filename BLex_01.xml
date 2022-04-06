@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">arthistoricum</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>arthistoricum</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">https://doi.org/10.11588/arthistoricum.535</article-id>
+      <title-group>
+        <article-title>Wörterbuch der Burgen, Schlösser und Festungen</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Böhme</surname>
+            <given-names>Horst Wolfgang</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Friedrich</surname>
+            <given-names>Reinhard</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Schock-Werner</surname>
+            <given-names>Barbara</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Europäisches Burgeninstitut – Einrichtung der Deutschen Burgenvereinigung e.
+              V.</surname>
+            <given-names/>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>###</day>
+        <month>###</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Text © 2019 by the authors.</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="de">
+          <license-p><inline-graphic
+              xlink:href="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg"
+            />Dieses Werk ist unter der Creative-Commons-Lizenz 4.0 (CC BY-SA 4.0)
+            veröffentlicht.</license-p>
+        </license>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en">
+          <license-p><inline-graphic
+              xlink:href="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg"
+            />This book is published under the Creative Commons License 4.0 (CC BY-SA
+            4.0).</license-p>
+        </license>
+      </permissions>
+      <abstract id="abstract1"/>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Einführung in die Geschichte der Burgen, Schlösser und Festungen Mitteleuropas</title>
+      <sec>
+        <title>Burgen</title>
+        <p>Adelsherrschaft im Mittelalter, die im Wesentlichen auf Grundherrschaft, Immunität,
+          Kirchenvogteien und Lehen sowie auf sonstigen Rechten beruhte, war ohne den Besitz von
+          Burgen nicht durchzusetzen und aufrechtzuerhalten. Burgen sind daher aufs Engste mit dem
+          weltlichen und geistlichen Adel des 8./9.–15. Jahrhunderts verbunden und stellen folglich
+          auch eine besonders markante und eigenständige Bauform des Mittelalters dar, die freilich
+          im Verlauf dieser sieben Jahrhunderte einem spürbaren und einschneidenden Wandel
+          unterworfen war, der sowohl die Funktion als auch die äußere Gestalt betraf.</p>
+        <p>Die meisten Burgen des Hoch- und Spätmittelalters waren in erster Linie repräsentative,
+          wehrhafte Wohnsitze der Adelsfamilien und dienten darüber hinaus als Mittelpunkte
+          herrschaftlicher Politik und Verwaltung. Sie erwiesen sich als unentbehrlich beim
+          Landesausbau und bei der seit dem 11./12. Jahrhundert verstärkt einsetzenden
+          Territorienbildung der weltlichen Dynasten und geistlichen Hochstifte. Nicht selten
+          erlangten sie als Wirtschaftszentren größere Bedeutung. Daneben gab es aber auch einige
+          Burgen, denen vorwiegend militärische Aufgaben zufielen, wie etwa den staufischen
+          Reichsburgen, oder die besonders den Handel und die Zolleinnahmen zu kontrollieren
+          hatten.</p>
+        <p>Die hier angesprochenen und den meisten von uns wohl vertrauten Adelsburgen des 12.–14.
+          Jahrhunderts, von denen auch heute noch sehr viele als ansehnliche Ruinen oder als relativ
+          intakte Gebäudekomplexe erhalten sind, stellen bereits weit entwickelte Bauformen dar und
+          spiegeln daher nicht den Beginn, sondern vielmehr den Höhepunkt und die Spätblüte dieser
+          von der Oberschicht geprägten Architektur wider. Die eindrucksvollen, oft monumentalen
+          Überreste steinerner Burgen aus jener romanisch-gotischen Epoche sollten uns deshalb nicht
+          den Blick verstellen und darüber vergessen lassen, dass die Wurzeln adeligen Burgenbaus
+          bis weit ins frühe Mittelalter zurückreichen. Diesen Anfängen konnte die Burgenforschung
+          erst in den letzten Jahrzehnten wirklich auf die Spur kommen, als durch intensive
+          archäologische Ausgrabungen und Bauuntersuchungen bisher meist nicht sichtbare Zeugnisse
+          älterer Vorgängerbauten freigelegt wurden, wodurch sich unsere Vorstellungen von frühen
+          Burgen grundlegend geändert haben.</p>
+        <p>Diese neuen Erkenntnisse, durch die heute die Anfänge der Adelsburg ins 11., ansatzweise
+          sogar ins 10. Jahrhundert zurückverfolgt werden können, haben freilich auch deutlich
+          gemacht, dass es im Laufe des Mittelalters zwei ganz unterschiedliche Phasen des
+          Burgenbaus gegeben hat: zunächst die Zeit der meist großflächigen Burgen des frühen
+          Mittelalters, die später dann allmählich von den oft viel kleineren adeligen Wohnburgen
+          des Hoch- und Spätmittelalters abgelöst wurden, wobei es nicht zu einem abrupten Wechsel,
+          sondern – nach zeitweiligem Nebeneinander beider Formen – zu einem langsamen Übergang
+          gekommen ist. Diese sich über einen längeren Zeitraum erstreckende Entwicklung wurde erst
+          offensichtlich, nachdem sich das wissenschaftliche Interesse an Burgen nicht mehr allein
+          auf die fortifikatorischen Aspekte und die äußere Form und Gestalt der Anlagen, sondern
+          zunehmend auf ihre Funktionen und ihre Stellung im geografisch-historischen Umfeld
+          richtete.</p>
+        <sec>
+          <title>
+            <italic>Die frühen Großburgen des 8.–11. Jahrhunderts</italic>
+          </title>
+          <p>Bereits im 8.–10./11. Jahrhundert hat es zahlreiche Burgen und Befestigungen gegeben,
+            die man zumeist als »Ring- oder Abschnittswälle« bezeichnet, da von ihnen kaum mehr als
+            die zerfallenen Ringmauern erhalten geblieben sind. Diese waren – oft in komplizierten
+            Konstruktionen – mehrheitlich aus Holz und Erde, manchmal mit vorgeblendeten Steinen,
+            errichtet worden. Seit dem 10. Jahrhundert jedoch bestanden die Umfassungsmauern vieler
+            dieser Burgen bereits aus großen aufgeschichteten Steinblöcken, zugehauenen Handquadern,
+            Feld- oder Bruchsteinen. Diese in althergebrachter, fast prähistorischer Bautradition
+            stehende Befestigungstechnik hielt sich vereinzelt bis ins 11./12. Jahrhundert. Als Tore
+            lassen sich einfache Durchlässe im Mauerverlauf oder Eingänge mit versetzten Mauerenden
+            nachweisen, öfter auch gezimmerte Holzkonstruktionen. Vor allem in
+            karolingisch-ottonischer Zeit waren sogenannte Zangentore mit nach innen einziehenden
+            Mauerenden typisch. Vor die Mauer vorspringende, rechteckige oder runde Wehrplattformen,
+            fälschlich als »Bastionen« bezeichnet, kamen erst im 10. Jahrhundert auf.</p>
+          <p>Bei fast allen großen Burgen des 8.–10. Jahrhunderts vermisst man noch eine monumentale
+            Steinarchitektur in Form hoch aufragender Tore, Türme, Wohnbauten oder Kapellen. Denn
+            die meisten archäologisch untersuchten Anlagen dieser Zeit besaßen nur wenige, einfache
+            Holzbauten, die eingeschossig waren und oft weite Bereiche des Burggeländes freiließen,
+            gelegentlich ergänzt durch schlichte Steingebäude. Allerdings sind jüngst auch einige
+            dieser Befestigungen ausgegraben worden, die eine dichte Bebauung mit ebenerdigen
+            Pfosten- und Grubenhäusern sowie Speichern aufwiesen und zudem intensive gewerbliche
+            Tätigkeiten bezeugten.</p>
+          <p>Kennzeichnend für die meisten karolingisch-ottonischen Burgen ist ihre bemerkenswerte
+            Größe, die oft eine Fläche von 1–5 ha, ja sogar bis 17 ha umfasst und Fragen über ihre
+            einstige Nutzung aufwirft. In den Schriftquellen jener Zeit hören wir von
+            Thronstreitigkeiten, Aufständen oppositioneller Adelsfamilien, feindlichen Einfällen
+            benachbarter Völker (Sachsen, Normannen, Ungarn, Slawen) und von kriegerisch
+            ausgetragenen Machtkämpfen der großen Dynasten in langjährigen Adelsfehden, wie jener
+            der Konradiner, Babenberger, Luxemburger und Schweinfurter. Im Rahmen solcher erbittert
+            geführten Auseinandersetzungen spielten die oft namentlich genannten Burgen eine
+            bedeutende Rolle als militärische Stützpunkte, Sammelplätze und Aufmarschlager, aber
+            auch als Zufluchtsorte der Bevölkerung.</p>
+          <p>Neben dieser überwiegend militärischen Nutzung hatten die Großburgen indes auch
+            zahlreiche zivile Aufgaben zu erfüllen, denn viele von ihnen dienten vor allem als
+            befestigte Zentren dem Schutz und der Verwaltung von Königs- oder Herzogsgut bzw. der
+            umfänglichen Besitzungen der Reichskirchen (Bistümer, Klöster). Auf ihnen wurden
+            gelegentlich Urkunden ausgestellt, Rechtsurteile gefällt oder sogar Münzen geschlagen.
+            Sie dienten außerdem als Sammelstellen von Abgaben, als Handels- oder Umschlagplätze
+            bzw. als Kontrollposten des Verkehrs. Nicht selten lagen sie in der Nähe von
+            Gewerbeanlagen bzw. von Lagerstätten unterschiedlicher Bodenschätze, für deren Schutz,
+            Verarbeitung und Vertrieb sie offenbar zuständig waren, denn häufig konnte in ihnen ein
+            breit gefächertes Handwerk, oft sogar intensive Metall-, speziell Eisenproduktion,
+            nachgewiesen werden. Ferner sind sie bezeugt als Versammlungsstätten der
+            herrschaftlichen Gefolgschaft zum Zwecke der Beratung. Nicht selten waren in diesen
+            Burgen die ältesten Sakralbauten einer Region errichtet worden, die dann häufig zu
+            Mittelpunkten der sich entwickelnden Kirchenorganisation wurden.</p>
+          <p>Sehr oft ist ein direkter topografischer Bezug zwischen einem bedeutenden, in der Ebene
+            gelegenen Herrenhof (lat. <italic>curtis</italic>) – sei er im Besitz des Königs, eines
+            Herzogs, Bischofs, Klosters oder Adeligen – und einem meist erhöht liegenden zugehörigen
+            »Ringwall« zu beobachten. Ganz offensichtlich gehörte demnach zu einer größeren
+            Grundherrschaft im Frühmittelalter (lat. <italic>fiscus</italic>; Fronhof bzw.
+            Villikation) neben den landwirtschaftlich genutzten Höfen, Ländereien und Wäldern auch
+            eine der hier beschriebenen Burgen, gleichsam als integraler Bestandteil eines
+            herrschaftlichen agrarisch-gewerblichen Großbetriebs. Spätestens mit der Auflösung der
+            sog. »Villikationsverfassung« im 11. Jahrhundert verloren die zugehörigen Befestigungen
+            ihre Bedeutung.</p>
+          <p>In den noch wenig entwickelten, meist städtelosen deutschen Landschaften östlich des
+            Rheins haben einige der Großburgen des 8.–10. Jahrhunderts sogar »urbane« Aufgaben
+            übernommen – z.B. als Bischofssitz oder als Zentren von Handwerk, Handel und Verkehr –
+            und somit als »neue zentrale Plätze« wichtige Funktionen bei der strukturellen
+            Erschließung des Landes erfüllt. Manche werden deshalb zu Recht als Mittelpunkts- oder
+            Landesburgen bezeichnet, zumal sie meist ständig besiedelt waren. Nur sehr wenige
+            Anlagen dienten hingegen als reine Fluchtburgen (Refugien), die nur bedarfsweise
+            aufgesucht wurden.</p>
+          <p>Es ist ferner nachgewiesen, dass so manche der frühmittelalterlichen Großburgen um 1000
+            oder sogar noch später Bestand hatte und zumindest einzelne der zuvor recht umfänglichen
+            Funktionen erfüllen konnte. Die meisten von ihnen waren freilich schon früher aufgegeben
+            worden, wobei die Schenkung an eine kirchliche Institution zwecks Gründung eines
+            Klosters oder Stiftes häufig zu beobachten ist, zweifellos nicht nur ein Zeichen für die
+            fromme Gesinnung der Tradenten, sondern auch dafür, dass die Großburgen sich
+            mittlerweile überlebt hatten und nun andere Burgentypen dem Adel zur Verfügung
+            standen.</p>
+          <p>Als wichtigstes Kennzeichen der frühmittelalterlichen Großburgen, von denen es allein
+            in Deutschland einst mehr als 1000 Anlagen gegeben hat, kann somit ihre auffallende
+            Multifunktionalität hervorgehoben werden. Nur die allerwenigsten haben dauerhaft als
+            ständiger Wohnsitz einer einzelnen Adelsfamilie gedient.</p>
+          <p>Aus den vorangegangenen Ausführungen dürfte deutlich geworden sein, dass die Errichtung
+            so vieler gewaltiger, strategisch meist sehr günstig gelegener Wehrbauten kaum allein
+            der Initiative einzelner Personen zu verdanken gewesen ist, sondern vor allem auf die
+            übergeordnete Reichsgewalt zurückzuführen war. Offenbar gehörte spätestens seit
+            karolingischer Zeit das Befestigungsrecht zu den königlichen Privilegien (Regalien), wie
+            das freilich nur für das Westfrankenreich geltende Edikt von Pîtres 864 nahe legt.
+            Allerdings lassen dessen Bestimmungen auch klar erkennen, dass damals bereits viele der
+            großen Adelsfamilien dieses Vorrecht okkupiert hatten und wohl unberechtigterweise und
+            eigenmächtig Burgen bauten. Damals und sogar schon früher besaßen u.a. die Pippiniden
+            als Hausmeier der Merowinger, die Etichonen als elsässische Herzöge und die Konradiner
+            als Grafen zwischen Rhein und Main einzelne oder mehrere dieser Großburgen.</p>
+          <p>Die anfangs wohl überwiegend in königlichem Auftrag bzw. mit Genehmigung des Herrschers
+            erbauten Burgen zum Schutz und zur Administration von Reichsgut bzw. von herzoglichem
+            und gräflichem Amtsgut gerieten schon bald in die Verfügungsgewalt mächtiger adeliger
+            Amtsträger, die sie oft für ihre eigennützigen Interessen missbrauchten. Denn der seit
+            dem 8./9. Jahrhundert intensiver einsetzende Landesausbau im rechtsrheinischen
+            Deutschland – vor allem durch Rodung – wurde in hohem Maße von diesen großen
+            Dynastenfamilien getragen und zum eigenen Vorteil genutzt. Ebenso wurde der umfangreiche
+            Grundbesitz der Reichskirchen (Bistümer, Klöster) durch Burgen abgesichert, die nur
+            allzu oft von den adeligen Vögten entfremdet werden konnten. Infolge dieser
+            Entwicklungen lockerte sich das Befestigungsregal zusehends, und die großen Dynasten
+            errichteten immer selbstbewusster eigene Burgen. Häufig genug wurden auch einst
+            königliche Befestigungen durch oppositionelle oder aufständische Adelige einfach in
+            Besitz genommen, wie dies in ottonischer Zeit für die Babenberger und Schweinfurter in
+            Nordbayern bezeugt ist. Im 10. Jahrhundert befand sich also ganz offensichtlich bereits
+            ein erheblicher Teil der hier angesprochenen Großburgen in der Verfügungsgewalt und
+            sogar im Besitz der mächtigen Adelsfamilien.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Die adeligen Wohnburgen des 10. und 11. Jahrhunderts</italic>
+          </title>
+          <p>Bis zum 10./11. Jahrhundert lebten die meisten Adelsfamilien noch im Altsiedelland auf
+            ihren Herrenhöfen, wo eher bescheidene ein- bis zweiräumige Holz- oder Steinhäuser
+            mittlerer Größe standen, die stets ebenerdige Eingänge besaßen und noch keine
+            Wehrhaftigkeit erkennen ließen. Nicht zuletzt das zunehmende Schutzbedürfnis dieser
+            kriegerischen Oberschicht des Reiches, hervorgerufen durch die oben erwähnten
+            Adelsfehden, die ständige Bedrohung durch äußere Feinde und die damit verbundene
+            Schwäche des spätkarolingischen Königtums, bewog aber bereits seit der Zeit um 900 immer
+            mehr Dynasten dazu, ihre Wohnsitze auf Hügel und Berge – fernab der bisherigen
+            Siedlungsareale – zu verlegen.</p>
+          <p>Dieser »Sprung auf die Höhe« geschah nicht allein aus militärischen Überlegungen,
+            sondern wohl vor allem aus Gründen der Repräsentation und des adeligen
+            Selbstverständnisses, gewährte doch der neue hochgelegene Adelssitz neben der räumlichen
+            Isolierung von der übrigen Bevölkerung zugleich auch eine symbolträchtige Überhöhung,
+            die geschickt die landschaftsbeherrschende und alles überragende Lage des Geländes
+            ausnutzte. Die ältesten bisher erforschten Höhenburgen des Adels stammen daher auch aus
+            der Zeit des Übergangs vom 9. zum 10. Jahrhundert. Ihre anfangs noch geringe Zahl nahm
+            im Laufe der folgenden Jahrzehnte ständig zu, so dass um 1000 bereits viele
+            Adelsfamilien eigene, private Wohnburgen besaßen, auch wenn sich deren Angehörige häufig
+            erst zwei bis drei Generationen später nach diesen zu nennen begannen.</p>
+          <p>Es lässt sich feststellen, dass die ersten Holz- oder Steinbauten auf archäologisch
+            sicher datierten Höhenburgen des späten 9. und des 10. Jahrhunderts noch ziemlich genau
+            jenen Gebäudeformen entsprochen haben, die man bei den Häusern der adeligen Herrenhöfe
+            in der Ebene antraf. Insgesamt dürfen wir also mit relativ flachen, nur wenig
+            aufwändigen Wohn- und Wirtschaftsbauten auf den frühen Adelssitzen rechnen, die oft den
+            Eindruck eines auf die Höhe verpflanzten Herrenhofes erwecken. Trotz dieser bescheidenen
+            Baugestaltung scheinen sämtliche frühen Höhenburgen dieser Zeit von gräflichen Familien
+            oder anderen Dynasten errichtet worden zu sein.</p>
+          <p>Im Verlaufe des 10. Jahrhunderts erschienen auf den privaten Höhenburgen des Adels –
+            neben den noch überwiegenden Holzhäusern – immer häufiger stattliche steinerne
+            Saalbauten mit Ausmaßen bis zu 20 x 12 m, die meist noch ebenerdige Eingänge besaßen. Es
+            scheint sich bei ihnen um die frühesten monumentalen Burggebäude gehandelt zu haben, die
+            vornehmlich repräsentativen Zwecken dienten. Die ältesten dieser Saalbauten lassen sich
+            westlich des Rheins nachweisen, doch schon gegen Ende des Jahrhunderts sind entsprechend
+            großzügig gestaltete große Steinsäle auch in Süd- und Mitteldeutschland bezeugt. Leider
+            ist von diesen frühen Adelsburgen über der Erde nichts mehr erhalten geblieben. Unsere
+            Vorstellungen von ihnen beruhen ausschließlich auf den Ergebnissen archäologischer
+            Ausgrabungen.</p>
+          <p>In den Jahrzehnten um 1000 bzw. zu Beginn des 11. Jahrhunderts kann man bei einigen
+            bereits bestehenden Adelssitzen und bei mehreren Neubauten bemerkenswerte
+            architektonische Veränderungen feststellen, die nahelegen, dass die noch junge
+            »Bauaufgabe Adelsburg« um neue, ganz spezifische Wehrelemente bereichert wurde, wodurch
+            dieser bisher noch recht zivile und unscheinbare Bautyp ein mehr trutzig-militärisches,
+            zugleich aber auch repräsentativeres Aussehen erhielt. Dies wurde einerseits durch die
+            Errichtung hoher, wehrhafter Türme, andererseits durch das Aufschütten gewaltiger
+            Erdmassen zu imposanten kegelförmigen Hügeln (»Motten«) erreicht. Manchmal wurde beides
+            miteinander kombiniert, um die Wirkung zu verstärken.</p>
+          <p>Diese neuen steinernen, meist quadratischen Wohntürme mit etwa 12 m oder mehr
+            Seitenlänge und 2–3 m starken Mauern sind für das frühe 11. Jahrhundert mehrfach belegt,
+            so auch vom <italic>Schlössel</italic> bei Klingenmünster, wo ein solcher Turm um
+            1030/40 in eine ältere Großburg des 9./10. Jahrhunderts hineingebaut wurde. Diese
+            mächtigen Turmburgen breiteten sich im Deutschen Reich wie auch in Frankreich, wo noch
+            zahlreiche dieser »Donjons« aufrecht stehen, rasch aus und belegen, dass diese
+            monumentale Bauform – mehr als alle älteren Burgentypen zuvor – dem selbstbewussten Adel
+            in besonderer Weise entsprochen haben muss.</p>
+          <p>Mit dem Auftauchen hoher, wehrhafter Türme in der Zeit um 1000 bzw. zu Beginn des 11.
+            Jahrhunderts begegnet uns erstmals auf Höhen-, aber auch in Niederungsburgen eine neue
+            Architekturform, die mit ihren drei bis fünf Geschossen nun als bewohnter Wehrbau
+            anzusprechen ist. Während nämlich die weitgehend ungeschützten Holz- und Steinhäuser
+            ottonischer Burgen noch Bauformen verkörperten, die – schon seit Jahrhunderten bekannt –
+            vom Adel einfach auf ihre neuen Burgen verpflanzt worden waren, stellt der Wohnturm mit
+            seinem hochgelegenen Eingang und seiner vertikalen Baugliederung eine genuine
+            Neuschöpfung der kriegerischen und wehrhaften Oberschicht dar und vereinigt gleichsam
+            die Aufgaben adliger Wohnung und dem erst später auftretenden Bergfried in einem
+            einzigen Bauwerk.</p>
+          <p>Etwa zur gleichen Zeit wie die neuartigen Turmbauten der Salierzeit lassen sich in und
+            bei Adelssitzen mehr oder weniger mächtige, künstlich aufgeschüttete Erdhügel (frz.
+              <italic>Motte</italic> oder <italic>Chateau à Motte</italic>) nachweisen, die oft eine
+            bis drei ebenerdige Vorburgen besitzen. Diese Erdaufschüttungen konnten in einem Zuge
+            oder in mehreren, zeitlich gestaffelten Arbeitsgängen erfolgen. Motten wurden häufig auf
+            flacher Erde errichtet, doch benutzte man gelegentlich auch eine natürliche Gelände-
+            oder Felskuppe als Kern, um den Arbeitsaufwand beim Erdauftrag zu verringern. Auch durch
+            das Absteilen einer vorhandenen Bodenerhebung bzw. eines Hügels ließ sich die gleiche
+            Wirkung erzielen wie beim Mottenbau, nämlich eine spürbare Überhöhung gegenüber dem
+            umliegenden Gelände. Anschließend wurden Bauten auf der Motte errichtet, wie auch schon
+            stehende Gebäude nachträglich durch Erdaufwurf »eingemottet« werden konnten.</p>
+          <p>Zusammenfassend kann festgestellt werden, dass der ursprünglich vom fränkischen
+            Königtum veranlasste Burgenbau schon im 9. Jahrhundert von mächtigen Adelsfamilien
+            übernommen und nachgeahmt wurde. Die vom 8.–10. Jahrhundert errichteten »Großburgen« mit
+            ihren vielfältigen Funktionen (Schutz, Verwaltung, Gewerbe) besaßen überwiegend
+            Holz-Erde-Mauern, aber auch häufig solche aus Stein. Anfangs bestand die oft spärliche
+            Innenbebauung aus schlichten Holzhäusern, die nur langsam einzelnen Steinbauten wichen.
+            Seit dem frühen 10. Jahrhundert verlagerte der mächtiger und selbstbewusster werdende
+            Adel immer öfter seine Wohnsitze von den meist nur wenig geschützten Herrenhöfen im
+            Altsiedelland auf befestigte Bergeshöhen. Während die älteren Großburgen mehr und mehr
+            aufgegeben wurden, nahmen die meist kleinen privaten Wohnburgen des Adels im Verlauf des
+            10. Jahrhunderts ständig zu, wobei größere saalartige Steinhäuser als älteste
+            Monumentalbauten recht häufig festzustellen sind.</p>
+          <p>An der Wende vom späten 10. zum frühen 11. Jahrhundert fand die neue Architekturform
+            des hohen, wehrhaften Wohnturms – auch in Gestalt des ebenerdig zugänglichen »Festen
+            Hauses« – erstmals Eingang in das Bauprogramm des adeligen Burgenbaus. In salischer Zeit
+            beherrschten dann die sich rasch ausbreitenden Turmburgen weithin das Bild der
+            Landschaft. Fast gleichzeitig wurden damals bei älteren Herrenhöfen, aber auch im
+            Bergland hohe, das Gelände überragende Erdhügel oder »Motten« aufgeschüttet, auf oder
+            neben denen meist eine Burg errichtet wurde, die aber nun nicht allein von Dynasten,
+            sondern immer häufiger auch von den aufstrebenden Reichsministerialen der Salierzeit
+            bewohnt wurden.</p>
+          <p>Gerade in spätottonischer Zeit, als die älteren, großflächigen Wehranlagen von
+            neuartigen, modernen Bautypen abgelöst wurden, begann die Burg zusehends zum
+            repräsentativen Statussymbol des selbstbewussten Adels (und bald auch der
+            Ministerialität) zu werden, deren Architektur seit dem mittleren 11. Jahrhundert immer
+            monumentalere Gestalt annahm. Somit erweisen sich die Jahrzehnte um 1000 als eine Epoche
+            des Übergangs, die den unaufhaltsamen Siegeszug der kleinen steinernen Wohnburgen des
+            Adels einleitete.</p>
+          <p>Spätestens seit salischer Zeit residierten der hohe Adel und die einflussreichsten
+            Dienstmannen des Königs und der Reichskirchen auf repräsentativen Burgen, nach denen sie
+            sich nun stolz nannten und von denen sie ihre vielfältigen Aufgaben als Grafen,
+            Kirchenvögte und Verwalter wahrnahmen, aber auch ihre eigenen Interessen beim Aufbau
+            eigenständiger Herrschaft verfolgten. <italic>H. W. B.</italic></p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Burgen des hohen und späten Mittelalters</italic>
+          </title>
+          <p>Im Gegensatz zu diesen großräumigen Wallanlagen des Frühmittelalters wird die nun
+            erstmals in der Geschichte auftretende kleinräumige Adelsburg die typische Burgenform
+            des hohen Mittelalters. Dabei waren die frühen Anlagen des 10. und 11. Jahrhunderts noch
+            häufig eher einfache Holzkonstruktionen, die weder Bergfried noch Palas aufwiesen und
+            somit kaum heutigen Vorstellungen einer mittelalterlichen Burg entsprachen. Dennoch
+            waren es zunächst sozial hoch stehende Personen und wichtige Dynastenfamilien, die den
+            frühen Burgenbau prägten.</p>
+          <p>Jedoch führten gesellschaftliche Veränderungen bald dazu, dass vereinzelt bereits im
+            11., besonders aber im Laufe des 12. Jahrhunderts zunehmend auch sozial tiefer stehende
+            Niederadelige oder Ministeriale, die ursprünglich sogar unfrei waren, zu Ansehen und
+            finanziellen Mitteln gelangten. Diesen gesellschaftlichen Aufstieg wollten und konnten
+            sie nun durch Errichtung einer Burg als sichtbares Statussymbol adeliger Lebensführung
+            zum Ausdruck bringen. Gleichzeitig kam in dieser Zeit durch die Trennung von Wohn- und
+            Schutzbereich im Burgenbau ein neues Element auf. Dies alles führte dazu, dass
+            allmählich der kennzeichnende Burgentyp entstand, der bis heute das landläufige Bild von
+            der mittelalterlichen Burg prägt. Wenngleich jede Burg individuell gestaltet und an die
+            topografischen Gegebenheiten angepasst war, so gab es doch spezifische Bauelemente, die
+            das Bild einer »klassischen« Burganlage prägten. Im 12. Jahrhundert ist das auch für die
+            folgenden Jahrhunderte gebräuchliche Bauprogramm im Wesentlichen entwickelt.</p>
+          <p>Weithin sichtbares Kernstück war und ist der mächtige Bergfried, der praktisch als
+            mögliche letzte Zufluchtsstätte bei Gefahr, jedoch ebenso als wichtiges Statussymbol
+            diente. Gewohnt wurde nun in einem eigenen geräumigen Steinbau, der als repräsentativer
+            Hauptbau der Anlage galt: im Palas. Außer den Wohnräumen der Herrschaft befand sich in
+            einem Geschoss üblicherweise auch ein großer Saal (»Festsaal«), welcher der Mittelpunkt
+            des gesellschaftlichen Lebens war. Einige frühe palastartige Bauten – wie beim
+              <italic>Steinenschloss</italic> bei Thaleischweiler-Fröschen nahe Pirmasens RP – sind
+            weitgehend zerstört und ihre Grundmauern nur archäologisch zu erschließen, so dass die
+            genaue Funktion der einzelnen Räume selten sicher nachzuweisen ist.</p>
+          <p>Des Weiteren gehörten zum obligatorischen Bauprogramm der Burganlage eine Ringmauer als
+            wichtige Verteidigungseinrichtung, eine Toranlage, die durchaus auch repräsentative
+            Zwecke erfüllen konnte, sowie häufig eine Kapelle. Viele Burgen wurden später – meist im
+            Verlauf des 14. oder 15. Jahrhunderts – durch eine umgebende Zwingeranlage zusätzlich
+            gesichert.</p>
+          <p>Gern versuchte man das militärische Prinzip der Überhöhung, das dem Verteidiger
+            entscheidende Vorteile verschaffte, baulich zu verwirklichen. Grundlegend war schon die
+            Wahl des Bauplatzes, wobei auch hier die fernoptische Wirkung der Burg eine wichtige
+            Rolle spielte. Nach Möglichkeit suchte man die Burg auf der Höhe zu errichten, wobei
+            sich neben der Gipfellage insbesondere die Position auf einem nach drei Seiten steil
+            abfallenden Sporn einer besonderen Beliebtheit erfreute. Die gefährdete Bergseite musste
+            dann entsprechend gesichert werden, meist durch einen Halsgraben sowie weitere Bauten
+            (Schildmauer, Bergfried). Selten wurden Burgen in Hanglage errichtet.</p>
+          <p>In den Niederungsgebieten (z. B. Niederrhein, Münsterland) dagegen gab es nur wenige
+            markante Erhöhungen, so dass hier die allseits durch Wassergräben gesicherte Wasserburg
+            der dominierende Burgentyp wurde. Interessant ist hier, dass sich die bedeutenden
+            Adelsgeschlechter schon früh die Höhen für ihre Burgen sicherten, um sich weithin
+            sichtbar vom Umland und ihren Vasallen abzuheben. Als weiteres wichtiges bauliches
+            Element der Überhöhung diente der Bergfried, dem eine symbolische Funktion als
+            Herrschaftszeichen zukam, während sein Verteidigungswert in der traditionellen
+            Burgenforschung eher überschätzt wurde. Nicht von ungefähr gibt es einige Burgen mit
+            zwei oder gar drei Bergfrieden, da jeder (gleichzeitige oder neue) Besitzer seinen
+            Machtanteil demonstrieren wollte. Da die Errichtung eines Bergfriedes aber immer auch
+            ein kostspieliges Unterfangen war, gibt es zahlreiche Burgen mit nur einem hölzernen
+            Hauptturm oder gar keinem Bergfried.</p>
+          <p>Insbesondere bei den Höhenburgen musste die natürliche vorgegebene topografische
+            Situation berücksichtigt und der Grundriss an das Gelände angepasst werden. Das
+            bedingte, dass sich kein einheitliches schematisiertes Bauprogramm verwirklichen ließ,
+            sondern jede Burg individuelle Züge aufwies.</p>
+          <p>Für die mittelalterliche Adelsburg war ihre Multifunktionalität charakteristisch. So
+            diente sie außer als Wohnsitz der Adelsfamilie und Wehrbau auch als Mittelpunkt eines
+            Herrschaftsbereiches mit entsprechenden Verwaltungsfunktionen, Ort der Gerichtsbarkeit
+            sowie als Zentrum einer umfangreichen Wirtschaftseinheit, gegebenenfalls konnte sie auch
+            Handelsmittelpunkt oder Zollstätte sein. Im Laufe der Jahrhunderte wechselten zudem bei
+            vielen Burgen die Besitzer, und es fanden entsprechende bauliche Veränderungen statt,
+            nicht zuletzt, weil man sich bemühte, Burgen sowohl militärisch als auch vom
+            Repräsentationsbedürfnis dem jeweils aktuellen Stand anzupassen. Auch ein nicht seltener
+            Funktionswandel konnte sich baulich niederschlagen. So geriet manche ursprünglich als
+            freier Adelssitz errichtete Anlage später in die Abhängigkeit eines mächtigeren
+            Landesherren, der sie nun in anderer Funktion, beispielsweise zur Grenzsicherung oder
+            als Amtssitz, gebrauchte.</p>
+          <p>Dies alles zeigt, dass Burgen bei weitem keine so statischen Objekte waren, wie es
+            zunächst den Anschein hat. Vielmehr waren sie zentrale Orte des gesellschaftlichen
+            Lebens und oft genug historische Stätten, an und mit denen Politik gemacht wurde.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Die erste, stauferzeitliche Blüte</italic>
+          </title>
+          <p>Während der mit der Herrschaft König Konrads III. (1138–1152) beginnenden, besonders
+            aber von Kaiser Friedrich I. Barbarossa (1152–1190) und seinem Enkel Friedrich II.
+            (1212–1250) geprägten Stauferzeit entstanden zahlreiche Burgen. Infolge der häufigen Um-
+            und Ausbauten in den folgenden Jahrhunderten hat sich aber bei der überwiegenden Zahl
+            stauferzeitliche Bausubstanz kaum oder nur stark verändert erhalten.</p>
+          <p>Insbesondere die neu formierte soziale Schicht des »Ritterstandes«
+              (<italic>miles</italic>), die sich vor allem aus Edelfreien, Niederadeligen und
+            Ministerialen formierte, drängte nun, ihrer Herrschaft durch Errichtung einer Burg
+            sowohl einen Mittelpunkt zu verleihen als auch zugleich sie mit einem repräsentativen
+            und gesicherten Wohnsitz auszustatten. Nicht selten wurden Burganlagen auch von den dort
+            zunächst nur als Verwalter eingesetzten ritterbürtigen Vögten ihrem ursprünglichen, aber
+            weit entfernt gelegenen Lehnsherrn (z. B. Klöstern) entfremdet. Gelegentlich wurden
+            durch den Bau einer Burg auf zwar fremdem, aber wenig geschütztem Baugrund militärische
+            Fakten geschaffen, die erst nach längeren Rechtsstreitigkeiten quasi im Nachhinein
+            legalisiert wurden. So wurde beispielsweise <italic>Burg Nassau</italic> RP wohl um 1124
+            von den Grafen von Laurenburg auf Grund und Boden des Bistums Worms gegründet. Erst 1159
+            leisten sie dem Erzbischof von Trier, mittlerweile Eigentümer des strittigen Bodens, den
+            Lehnseid und nennen sich fortan nach ihrer neuen Burg Herren von Nassau.</p>
+          <p>Ein Grund für die Burgenfülle während der Stauferzeit lag darin, dass der Burgenbau
+            zunehmend als politisches Machtmittel diente (Burgenpolitik). Außer dem König oder
+            Kaiser, dem ursprünglich das Befestigungsrecht allein zustand und der sein Reichsgut zu
+            schützen suchte, betrieben im fortgeschrittenen 12. und vor allem im 13. und in der
+            ersten Hälfe des 14. Jahrhunderts schließlich auch mächtige Landesherren, im
+            Mittelrheingebiet beispielsweise die Erzbischöfe von Köln, Mainz und Trier sowie die
+            Pfalzgrafen, alles Inhaber der Kurwürde, den Burgenbau als Mittel zur Herausbildung,
+            Festigung und Absicherung geschlossener Herrschaftskomplexe (Territorien). Neben dem
+            Neubau von Burgen oder dem Erwerb der Herrschaft über bereits bestehende Burgen war ein
+            häufig praktiziertes Vorgehen die Errichtung von »Gegenburgen«, also eine im
+            Grenzbereich zum Nachbargebiet errichtete eigene Burg.</p>
+          <p>Besonders an bedeutenden Handelsrouten wie dem Rheintal war die Zollerhebung ein
+            einträgliches Geschäft. Die Zollstellen mussten dabei durch nahe gelegene Befestigungen
+            geschützt werden, was zur Neuerrichtung oder zum Ausbau von Burganlagen führte. Eine der
+            bedeutendsten Zollstellen lag am Binger Loch, wo das Erzbistum Mainz mit den Burgen
+              <italic>Ehrenfels</italic>, <italic>Klopp</italic> und dem <italic>Mäuseturm</italic>
+            über einen regelrechten Sperr-Riegel am Rhein verfügte. Ähnlich stark war die
+            Kombination <italic>Burg Gutenfels</italic> mit dem ab 1326/27 errichteten, im Rhein
+            gelegenen <italic>Pfalzgrafenstein</italic>, der dem Pfalzgrafen gehörte. <italic>R.
+              F.</italic></p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Spätgotik</italic>
+          </title>
+          <p>Auch im 14. Jahrhundert wurden noch neue Burganlagen errichtet. Zumeist wurden jedoch
+            ältere bestehende Burgen modernisiert. Kennzeichnend für den Burgenbau dieser Zeit ist
+            häufig die Errichtung einer äußeren, eng um die ganze Burg geführten Verteidigungsmauer,
+            eines sogenannten Zwingers, der zudem mit vorspringenden, innen meist offenen Türmen
+            (Schalentürme) gesichert war. Für diese flankierenden Türme, insofern sie rundförmig und
+            wuchtig ausgeführt waren, erscheint erstmalig die Bezeichnung »Rondell«. Viele dieser
+            Schalentürme waren damals noch von viereckiger Grundgestalt.</p>
+          <p>Auch fällt in diese Zeit eine Renaissance des Wohnturms, der zwischenzeitlich zwar
+            zurückgedrängt, aber nicht völlig verschwunden war. So initiierte der donjonartige, vom
+            Mainzer Erzbischof in Eltville RP im zweiten Viertel des 14. Jahrhunderts errichtete
+            Wohnturm offenbar weitere Wohnturmbauten im Rheinland. Bald darauf entstand die ähnlich
+            konzipierte Stadtburg in Boppard RP. Der Wohnturm wurde für alle adeligen Schichten
+            gleichermaßen quasi als »wiederentdecktes« Statussymbol zum führenden Leitmotiv des
+            zeitgenössischen Burgenbaues. Kaiser Karl IV. stattete seine <italic>Burg
+              Karlstein</italic> in Böhmen mit einem riesigen Wohnturm aus, wohingegen sich der
+            Rothenburger Bürgermeister Heinrich Toppler 1388 ein winziges Turmhäuschen
+            (»Weiherhäuschen«) unterhalb der Reichsstadt Rothenburg ob der Tauber errichtete.
+            Topplers Bautätigkeit illustriert einen immens wichtigen neuen Prozess im Burgenbau: Im
+            14. Jahrhundert erscheinen vermehrt reiche und bedeutende Bürger als Träger des
+            Burgenbaues – man denke nur an die Brüder Vintler, die damals die <italic>Burg
+              Runkelstein</italic> (Südtirol I) aufkauften, prachtvoll ausbauten und ausmalen ließen
+            und dadurch die Erhebung in den Adelsstand erwirkten. Dieser Prozess lässt sich
+            vielerorts im deutschsprachigen Raum beobachten.</p>
+          <p>Neben die großen und kleinen, vorwiegend rechteckigen Wohntürme treten einige neue
+            Burgentypen, die ihren Ursprung zwar schon in der 2. Hälfte des 13. Jahrhunderts haben,
+            aber erst im 14. Jahrhundert einen spektakulären und quantitativ bemerkenswerten
+            Entwicklungsstand erreichen: die Schildmauerburgen und die Mantelmauerburgen. Während
+            sich die Schildmauerburgen des 14. Jahrhunderts von ihren Vorgängern durch unglaublich
+            massive Frontmauern auszeichnen (<italic>Aggstein</italic> in Niederösterreich),
+            erreichen manche Mantelmauerburgen erstaunliche, fast turmartige Höhen
+              (<italic>Eisenberg</italic> BY). Ob dies wirklich ursächlich mit der Verbreitung
+            großer Wurf- und Schleudergeschütze zusammenhängt oder vielleicht auch nur auf neue
+            »Bau-Moden« zurückzuführen ist, bleibt dahingestellt.</p>
+          <p>In die Zeit dieser letzten Neubauphase fällt auch das Aufkommen von Feuerwaffen, die
+            gegen Ende des 14. Jahrhunderts in Deutschland erstmals entscheidend bei Belagerungen
+            eingesetzt wurden und von der ersten Hälfte des 15. Jahrhunderts an zu baulichen
+            Reaktionen zwangen. In den östlichen Gebieten Deutschlands lieferten die Hussiten
+            entscheidende Impulse hierzu. Zum einen besaßen sie eine sehr effiziente, da mobile
+            Artillerie mit Geschützwagen, zum anderen befestigten sie ihre eigenen Plätze mit neuen
+            Wehrelementen wie Geschütztürmen, Zwingern und Wehrgängen mit Artilleriescharten
+              (<italic>Tabor</italic> in Böhmen). Dies führte dazu, dass um 1439/40 etliche Städte
+            und Burgen neu befestigt wurden (Stadt und <italic>Veste Coburg </italic>BY,
+              <italic>Altenstein</italic> BY, <italic>Lichtenstein</italic> BY,
+              <italic>Kötzting</italic> BY, Stadt <italic>Dresden</italic> usw.). Auch entstehen
+            artillerietaugliche Neukreationen wie die <italic>Burg Schmachtenberg</italic> BY, die
+            einen kastellförmigen Grundriss mit vier flankierenden Eckrundtürmen aufweist –
+            eigentlich ein Rückgriff auf antike Kastelle und staufische Reichsburgen.</p>
+          <p>Vor allem ab dem letzten Drittel des 15. Jahrhunderts wurden zahlreiche
+            mittelalterliche Burgen in unterschiedlichster Intensität umgebaut. Einerseits wurden
+            bei einigen die Verteidigungseinrichtungen durch Einbau von Feuerwaffenscharten
+            verstärkt, andererseits bei etlichen auch eigene Geschützplattformen oder Geschütztürme
+            errichtet, um das Kanonenfeuer erwidern zu können. All diese Maßnahmen dienten als mehr
+            oder weniger festungsartige Verstärkungen bestehender Burganlagen. Hingegen wurden an
+            wichtigen Stellen auch mit erheblichem Aufwand und unter Einbeziehung oder Abtragung
+            vorhandener mittelalterlicher Bausubstanz neuartige Festungen errichtet
+              (<italic>Ehrenbreitstein</italic>; <italic>Burg Rheinfels</italic> RP über St. Goar im
+            17. Jahrhundert).</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Der Niedergang</italic>
+          </title>
+          <p>Bereits während des hohen Mittelalters kam es erstmalig zur Aufgabe von Burgen. Ein
+            Grund hierfür konnte eine ungünstige Lage sein, die veränderten verkehrsgeografischen
+            oder politischen Verhältnissen nicht mehr gerecht wurde. Gelegentlich wurden Burgen auch
+            in Klöster umgewandelt. Das »Burgensterben« erreichte bereits im 14. Jahrhundert einen
+            ersten frühen Höhepunkt. Neben natürlichen Ursachen wie Brand, durch Unvorsichtigkeit
+            (des Öfteren Funkenflug von Feuern in offenen Küchenkaminen) oder durch Blitzschlag
+            hervorgerufen, trugen außerdem Naturkatastrophen wie Erdbeben (Basel 1352) oder die
+            bauliche Vernachlässigung infolge Verarmung des Rittertums zur Ruinierung bei. So
+            zeigten bereits im 16. Jahrhundert zahlreiche Burgen deutliche Verfallserscheinungen, im
+            17. Jahrhundert erhöhte sich deren Zahl nochmals. Damals ersetzte die Burgruine in der
+            zeitgenössischen Landschaftsmalerei bezeichnenderweise allmählich die antike Ruine.</p>
+          <p>Eine besonders häufige Ursache waren die kriegsbedingten Zerstörungen. Bereits im hohen
+            Mittelalter wurden Burgen infolge territorialer Machtstreitigkeiten gelegentlich
+            zerstört. Dabei ist jedoch zu bedenken, dass wichtige Burgen wiederhergestellt wurden,
+            wie <italic>Reichenberg</italic> RP sogar nochmals Mitte des 17. Jahrhunderts. Dass dies
+            ab dem 17. Jahrhundert allerdings meist unterblieb, unterstreicht den in jeder Hinsicht
+            zunehmend geringer werdenden Nutzen von Burgen. Zuweilen wurden auch strategisch oder
+            verteidigungstechnisch günstig gelegene Burgen bei ihrer Aufgabe von den eigenen Truppen
+            zerstört, um dem Feind keine Möglichkeit der Nutzung zu geben.</p>
+          <p>Erhebliche Zerstörung brachten dann die Bauernkriege von 1525 mit sich. Zahlreiche,
+            kurzzeitig von ihren Besitzern aufgegebene Burgen wurden von den aufständischen Bauern
+            eingenommen und abgebrannt. Die Ereignisse um 1525 werden daher in vielen Regionen
+            Deutschlands als Markierung für das Ende der klassischen Burgenzeit angesehen. Ihre
+            Nachfolger als Wehrbauten wurden die Festungen, die Wohnfunktion übernahmen
+            repräsentative Schlösser, die einen erheblich angenehmeren Komfort boten.</p>
+          <p>Die Zerstörungen des Dreißigjährigen Krieges trafen somit eine schon weitgehend
+            reduzierte Burgenlandschaft. Die systematischen Verheerungen der Rheinlande durch die
+            Truppen Ludwigs des XIV. von Frankreich Ende des 17. Jahrhunderts zerstörten viele
+            Burgen endgültig, auch wenn sie keinen militärischen Wert mehr hatten oder schon
+            weitgehend ruiniert waren. Der Verlust an historischer Bausubstanz war jedoch
+            unersetzlich. Die Ruinen dienten häufig als Steinbruch.</p>
+          <p>Erst zu Beginn des 19. Jahrhunderts wurden als Ausdruck eines beginnenden Interesses an
+            der Bewahrung alter Bausubstanz erste Maßnahmen zur Unterschutzstellung auf den Weg
+            gebracht. Deutlicher Ausdruck eines Sinneswandels im Umgang mit den Ruinen war dann der
+            Erwerb mehrerer Rheinburgen durch die preußischen Prinzen (<italic>Rheinstein</italic>
+            ab 1825, <italic>Stolzenfels</italic> ab 1835, <italic>Sooneck</italic> ab 1843),
+            zunächst als Rettungsmaßnahme, zugleich aber auch verbunden mit der Absicht, sie zu
+            Wohn- und Repräsentationszwecken auszubauen. Sie und ihre Nachahmer setzten damit nicht
+            zuletzt eine Entwicklung in Gang, die u.a. dazu führte, dass es Ende des 19.
+            Jahrhunderts beispielsweise im Mittelrheintal kaum noch eine unverändert erhaltene Ruine
+            gab.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Schlösser</title>
+        <p>Das Schloss ist eine Bauaufgabe der Neuzeit aus der Zeit ab etwa 1450. Es löst zusammen
+          mit der Festung die Burg ab. Die terminologische Unterscheidung zwischen Burg und Schloss
+          ist jedoch ein weitgehend auf den deutschen Sprachraum begrenztes Phänomen. Eine
+          inhaltliche und funktionale Abgrenzung ist nicht möglich. Frühe Schlösser sind fast immer
+          befestigt, späte Burgen können nahezu auf jede Form von Befestigung verzichten, und beide
+          erfüllten weitgehend gleiche Aufgaben.</p>
+        <p>Was ist ein Schloss? Diese Frage ist nur allgemein und übergreifend zu beantworten.
+          Aufgrund der Vielfalt der Formen wird im Folgenden ein Schwerpunkt auf die Funktion
+          gelegt. Für die Frühe Neuzeit ist die zeitgenössische Definition eines Schlosses relativ
+          klar: Es handelt sich um das Gebäude eines Landesherrn mit Wohnfunktion. Die
+          vergleichbaren Bauten des Adels werden als Haus bezeichnet. Eine derartige Unterscheidung
+          gibt es auch in anderen Ländern wie etwa in Frankreich mit den Bezeichnungen ›Château‹ und
+          ›Maison‹. Dieses Kriterium der Unterscheidung verliert jedoch seine Bedeutung, als im 19.
+          Jahrhundert viele ehemals selbständige Landesherren aufgrund der Mediatisierung Untertanen
+          eines anderen Landesherrn werden. Nun bezeichnet der Begriff Schloss im allgemeinen
+          Sprachgebrauch den Wohnsitz eines Adligen oder Landesherrn. Mit dem Ende der Monarchie
+          werden im landläufigen Sinne aber keine Schlossbauten mehr errichtet – das Schloss ist
+          letztendlich eine monarchisch-aristokratische Bauaufgabe. Damit ist das Ende des
+          Schlossbaues in Deutschland 1918 anzusetzen.</p>
+        <p>Ursache für die Entstehung des Schlosses ist in Deutschland die Herausbildung der
+          Landesherrschaft mit einer festen Residenz. Es kommt zu einer Spezialisierung der
+          Bauaufgaben. Manche Architekturen dienen nun vorwiegend der Verteidigung, andere der
+          Verwaltung, wieder andere der Beherbergung, der Repräsentation oder auch mehreren dieser
+          Aufgaben in Kombination. Ein höherer Wohnkomfort, aber auch Verwaltungsbereiche und
+          vielfältige Ökonomiebauten sind kennzeichnend für viele – wenn auch nicht für alle –
+          Schlösser in der Frühen Neuzeit. Doch kann dieser Wandel nicht als ursächlich für die
+          Entwicklung des Schlosses angesehen werden: Wie alle Bauaufgaben unterlagen Burgen und
+          Schlösser immer Modernisierungen und Veränderungen, um den im Laufe der Jahrhunderte sich
+          wandelnden Anforderungen genügen zu können.</p>
+        <p>In der Bedeutungshierarchie stehen unter den Schlössern die Häuser des Adels. Von den
+          Zeitgenossen werden sie etwa als Rittersitze oder Herrenhäuser bezeichnet. Häufig handelt
+          es sich um die Mittelpunkte von Gütern, fast immer sind mit den Bauten und ihrem Besitz
+          bestimmte Rechte verknüpft wie etwa Leibeigenschaft oder niedere Gerichtsbarkeit. Formal
+          sind sie oft nicht von einem Schloss zu unterscheiden. Es ist durchaus möglich, dass
+          Bürgerliche derartige Sitze erwerben, sei es, dass sie die notwendige finanzielle Potenz
+          aufweisen oder dass sie einen standesgemäßen Repräsentationsort suchen, da sie in den
+          Adelsstand erhoben wurden. Schlossartige Neubauten des Bürgertums werden allerdings oft
+          als Landhaus und im 19. Jahrhundert bevorzugt als Villa bezeichnet.</p>
+        <p>Der Begriff Palast charakterisiert in der Frühen Neuzeit einen repräsentativen Bau in der
+          Stadt. Zeitgenossen fassen unter diesen Terminus auch ein landesherrliches
+          Residenzschloss. Vergleichbare Bauten des Adels hingegen nennt man in dieser Zeit
+          Stadtpalais.</p>
+        <sec>
+          <title>
+            <italic>Funktionale Vielfalt</italic>
+          </title>
+          <p>Schlösser hatten vielfältige Funktionen zu erfüllen. Dies hing zum einen von ihrem
+            Besitzer ab, zum anderen von der speziellen Aufgabe, für die sie errichtet worden waren.
+            Seine aufwändigste Ausformung erhält das Schloss in der Residenz. Das Residenzschloss
+            muss nicht nur dem Landesherrn eines souveränen Staates eine angemessene Unterkunft
+            bieten, sondern auch seinen Gästen. Ferner sind im Idealfall alle staatlichen
+            Ministerien und Behörden im Residenzschloss vorhanden. Nicht fehlen dürfen auch die
+            notwendigen Räumlichkeiten zur Versorgung wie Speicher und Lagerräume, Küchen und
+            Speiseräume, Bäckereien und Waschräume. Ebenfalls zum Residenzschloss zählen Räume für
+            kulturelle Veranstaltungen und Bildung wie ein Theater, Gemälde- und Skulpturengalerien,
+            Wunderkammern und Bibliotheken. Auch eine Kirche zur geistigen Erbauung ist notwendig.
+            Nur wenige Schlösser wie <italic>Gotha</italic> in Thüringen haben tatsächlich alle
+            diese Funktionen in ihren Mauern vereinigen können, oft wurden eigene Nebengebäude
+            errichtet, und spätestens im 19. Jahrhundert fand eine Auslagerung fast aller
+            administrativen Bereiche aus dem Schloss statt. Es kam sozusagen zu einer funktionalen
+            Auszehrung des Schlosses. Das Berliner Stadtschloss war zu Beginn des 20. Jahrhunderts
+            nur noch repräsentativer Mittelpunkt des Landes und erfüllte die Funktion eines
+            ›fürstlichen Hotels‹. Doch war das Residenzschloss zumindest in der Frühen Neuzeit nicht
+            nur der repräsentative Wohnsitz eines Fürsten, sondern auch das administrative Zentrum
+            eines Staates.</p>
+          <p>Weitere landesherrliche Schlösser waren die Jagd- und Lustschlösser. Sie befanden sich
+            im Allgemeinen nicht in Städten, sondern auf dem Lande. Es entstand ein System von
+            Trabanten, in dessen ideellem Mittelpunkt die Residenz stand. Eine aus dem Mittelalter
+            tradierte Bauaufgabe war das Jagdschloss. Sie war besonders prestigeträchtig, da die
+            Jagd, von wenigen Ausnahmen abgesehen, bis 1848 der Landesherrschaft vorbehalten war.
+            Jagdschlösser befanden sich in oder bei Jagdgebieten. Hier konnte der Landesherr mit
+            seinen Gästen tafeln und übernachten, wenn der Weg zur Residenz zurück zu weit war.
+            Lustschlösser haben ebenfalls eine lange Tradition, kamen nördlich der Alpen aber erst
+            im 16. Jahrhundert vermehrt auf. Dies steht wiederum in Beziehung zur Etablierung fester
+            Residenzschlösser. Auf Lustschlössern wurde keinen Regierungsgeschäften nachgegangen, es
+            handelte sich um Orte der Erholung. Hier erging man sich in Gärten und Grotten, besuchte
+            Feste und Feuerwerke, fuhr Schiff, spielte und speiste in geselliger Runde. Doch konnte
+            selbstverständlich, wenn ein intimer Rahmen gewünscht wurde, damals wie heute der
+            offizielle Bereich des Regierungssitzes verlassen und in der ungezwungeneren Atmosphäre
+            eines Jagd- oder Lustschlosses Politik betrieben werden. Beide Bauaufgaben dienten dem
+            Schlossherrn aber nicht als dauerhafter Aufenthaltsort. Sie sind vielmehr durch den
+            Gegensatz zum Hauptwohnsitz gekennzeichnet.</p>
+          <p>Dies trifft auch auf den Amtssitz zu. Doch werden hier im Gegensatz zu Jagd- und
+            Lustschlössern prinzipiell eher die Wohnfunktionen zugunsten der Administration
+            zurückgestellt. Amtssitze waren die Orte landesherrlicher Verwaltung im Territorium, das
+            in verschiedene Ämter eingeteilt war. Wir haben es sozusagen mit den Unterbehörden vor
+            Ort zu tun. Fast jeder Amtssitz verfügte jedoch über Wohnräume für den Landesherrn, so
+            dass nicht immer eine klare Trennung zwischen einem Schloss auf dem Lande und einem
+            Amtssitz gezogen werden kann. Im Gegensatz zu Amtsburgen gab es jedoch keine
+            Amtsschlösser.</p>
+          <p>Da das Residenzschloss dem Landesherrn vorbehalten war, stellte sich die Frage, an
+            welchen Orten seine Verwandten wohnen konnten. Besonders wichtig war dies bei den Witwen
+            der Regenten. Ihren Platz nahm in der Residenz die Gattin des neuen Herrschers ein.
+            Daher wurde schon bei der Heirat bestimmt, an welchem Ort die Witwe nach dem Tod ihres
+            Gatten leben sollte. Diese Witwensitze konnten sich in der Residenzstadt oder auch auf
+            einem abgelegenen Schloss auf dem Lande befinden. Entsprechend dem Status der Witwe und
+            den vertraglichen Vereinbarungen sahen die Schlösser sehr unterschiedlich aus.</p>
+          <p>Selten kam es vor, dass mehrere Herrscher ein Land gemeinsam regierten. Bestand eine
+            gemeinsame Herrschaft von Brüdern, dann wohnten diese meist auf eigenen Schlössern
+            außerhalb der Residenz – eventuell bezog der Älteste auch das Residenzschloss. In diesem
+            seltenen Fall waren Verwaltungs- und Wohnsitz der Landesherren voneinander getrennt. Im
+            Allgemeinen wurde jedoch das Territorium geteilt, oder die jüngeren Söhne waren von der
+            Regierung ausgeschlossen. Sie erhielten eine Apanage. Ihre Wohnsitze, die
+            dementsprechend Apanagesitze genannt wurden, konnten sowohl in der Stadt als auch auf
+            dem Lande stehen. Staatlich-administrative Aufgaben wurden hier nicht wahrgenommen.
+            Diese Schlösser und Paläste unterschieden sich kaum von den Häusern des Adels und müssen
+            im strengen Sinne auch als Häuser angesprochen werden, da es sich nicht um
+            landesherrliche Bauten handelte. Dennoch war der formale Aufwand eines Apanagesitzes wie
+            auch der eines Witwensitzes oft enorm, da eine standesgemäße Lebensführung gewährleistet
+            werden musste.</p>
+          <p>Häufig erhielten auch der Kronprinz oder alle Prinzen eigene Schlösser im Land. Es
+            konnte sich dabei um ein Geschenk, eigenständig erworbenen Besitz oder eine zeitweilig
+            überlassene Unterkunft handeln. Besonders bekannt geworden sind die Anlagen der
+            preußischen Prinzen aus dem 19. und 20. Jahrhundert.</p>
+          <p>Viele dieser Bauten sind ein Beispiel für eine in der Frühen Neuzeit einsetzende
+            Entwicklung, in deren Rahmen sich langsam eine Trennung zwischen staatlichen und
+            privaten Schlössern herausbildete, die sich spätestens im 19. Jahrhundert durchsetzte.
+            So konnten Gattinnen, Prinzen oder auch Landesherren Schlösser gleich einem Privatmann
+            besitzen. Optisch unterschieden sich solche Bauten jedoch kaum von anderen. Erst nach
+            1918 kam der Trennung etwa zwischen Kronvermögen, Hausvermögen, unveräußerlichem
+            Familienvermögen oder Allodialvermögen bei der Überführung von Schlössern in staatlichen
+            Besitz oder ihrem Verbleib beim ehemaligen Herrscherhaus eine entscheidende Bedeutung
+            zu.</p>
+          <p>Die Bauten des Adels sind formal von Schlössern kaum zu unterscheiden. Doch dienten
+            diese Anlagen nie der Verwaltung eines Staates. Vielmehr waren sie oft Mittelpunkt eines
+            Gutsbetriebes. Aufgrund mangelnder finanzieller Potenz, aber auch wegen einer geringeren
+            Funktionsbreite sind die Bauten meist kleiner und bei weitem weniger aufwändig als ein
+            Schloss. Im 19. Jahrhundert können sie sogar von den Villen reicher Bürger an Pracht und
+            Größe übertroffen werden.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Formale Vielfalt</italic>
+          </title>
+          <p>Auch das Erscheinungsbild der Schlösser war in der Zeit zwischen 1450 und 1918 sehr
+            vielfältig. Mehrere Faktoren sind hierfür verantwortlich zu machen: die Entwicklung von
+            Geschmack und Mode, die Funktion der Architektur und der Rang des Bauherrn.</p>
+          <p>Geschmack und Mode äußern sich in der Architektur für den Laien in erster Linie in
+            unterschiedlichen Stilen. Gotik, Renaissance, Barock, Rokoko, Klassizismus und
+            Historismus können als Schlagworte genannt werden. Neben der Form bedingt die Mode
+            jedoch auch die Anordnung einzelner Gebäudeteile zueinander sowie das Vorhandensein und
+            die Lage bestimmter Räume und Funktionsbereiche.</p>
+          <p>Am Beginn des Schlosses stand die Burg. Sie wurde bereits im 15. Jahrhundert und dann
+            vermehrt im 16. Jahrhundert umgebaut und modernisiert. Bei Neubauten sind Veränderungen
+            festzustellen. Waren bislang nur einzelne Bauten symmetrisch gegliedert, trifft dies
+            jetzt zunehmend auf den gesamten Schlosskomplex zu. Ob ein Schloss in seiner Gesamtheit
+            symmetrisch gestaltet war, hing aber vor allem davon ab, ob es sich um einen Neubau
+            handelte. Viele Residenzen wurden wie in München oder Wien immer wieder erweitert und
+            haben nie dem Idealbild einer bestimmten Zeit entsprochen. So gesehen ist das formal
+            ungeordnete Konglomerat von Bauten die verbreitetste Form des Schlosses.</p>
+          <p>Schlösser konnten prinzipiell von unterschiedlicher Größe und Komplexität sein.
+            Eventuell gab es nur ein Gebäude, unter Umständen umfasste das Schlossareal verschiedene
+            Bereiche mit einer Vielzahl von Bauten. Das ideelle und nur zu oft auch formale Zentrum
+            eines Schlossareals war die Wohnung des Landesherrn bzw. das Gebäude, in dem diese sich
+            befand. Diesem waren die möglichen Nebengebäude zugeordnet. Zwei Möglichkeiten, ein
+            Schlossareal zu gliedern, können grundsätzlich unterschieden werden: In der ersten
+            Variante handelt es sich um eine formal-geometrisch geordnete Anlage, die sich gern an
+            einer Symmetrieachse orientiert, in der zweiten um ein Konglomerat von Bauten ohne
+            eindeutige Ausrichtung. In beiden Fällen kann das Hauptgebäude frei stehen und dem
+            Betrachter daher sofort ins Auge fallen, oder aber dem Hauptbau sind andere Bauten oder
+            Anlagen vorgeschaltet, die den Blick auf ihn verstellen. Die erste Variante ist das
+            vorherrschende Ideal der Frühen Neuzeit, die zweite findet man vor allem im 15. und dann
+            wieder verstärkt im 19. Jahrhundert. Eine klare Zuordnung einer Form zu einer Zeit ist
+            jedoch nicht immer möglich und eher ein theoretisches Konstrukt, das wie jede Typologie
+            nur ein Hilfsmittel sein kann und will.</p>
+          <p>Fast immer suchte man in einem Schlossareal eine Hierarchisierung der Bauten zu
+            verwirklichen. Dies zeigt sich besonders gut beim Pavillonsystem, das in der Frühen
+            Neuzeit sehr beliebt war und Bauten oft entlang einer Symmetrieachse aufreihte, die auf
+            ein Hauptgebäude zuführte. Auch sonst suchte man das Hauptgebäude durch Größe und
+            Schmuck hervorzuheben. Mitunter wird heute nur dieser Bau als Schloss bezeichnet. Dies
+            hat mehrere Gründe: Zum einen sind die Nebengebäude oft nicht erhalten, zum anderen
+            wirken Wirtschaftsbauten, die ein Schloss ergänzen, auf den modernen Betrachter wenig
+            repräsentativ, so dass sie nicht als Bestandteil des Schlosses erkannt werden. Ihre
+            Funktion haben sie darüber hinaus heute wie das Schloss verloren.</p>
+          <p>Wie das ganze Schlossareal kann auch das Hauptgebäude unter formalen Gesichtspunkten
+            typologisiert werden. Und auch hier handelt es sich lediglich um ein Hilfskonstrukt, und
+            oft wird man Vermischungen oder Abwandlungen in der Realität finden. Der verbreitetste
+            Typus eines Schlosses ist der mit Innenhöfen – oft als Vierflügelanlage ausgebildet.
+            Theoretisch sind alle Flügel identisch gestaltet. Dieses Ideal wurde vor allem im 16.
+            und frühen 17. Jahrhundert angestrebt, wie es etwa das Schloss in
+              <italic>Jülich</italic> zeigt. Oft war ein Flügel jedoch formal, und sei es nur durch
+            besonderen Schmuck oder einen Treppenturm, hervorgehoben. Fast immer handelte es sich
+            bei ihm um das ›Corps de logis‹. Weit verbreitet war es aber auch, die Flügel überhaupt
+            unterschiedlich zu gestalten, was durchaus auch ihre Höhe mit einbeziehen konnte. Dann
+            waren die Flügel formal einem Haupttrakt untergeordnet wie ehemals in
+              <italic>Gotha</italic>, weshalb man bei dieser Abwandlung der Vierflügelanlage auch
+            vom subordinierten Schloss spricht. In jedem Fall zeichnen sich Vierflügelanlagen
+            dadurch aus, dass es keinen offenen Hof gibt. Die Vierflügelanlage bzw. ein Komplex mit
+            Innenhöfen galt bis ins 18. Jahrhundert als die einzig angemessene Architektur eines
+            Residenzschlosses. So verwundert es nicht, dass viele Schlösser einen Hof einschlossen
+            wie etwa <italic>Aschaffenburg</italic> oder <italic>Kassel</italic>. Meistens waren es
+            jedoch mehrere Höfe, und diese Schlösser gehören daher einem anderen Typus an.</p>
+          <p>Eine Dreiflügelanlage öffnet sich im Regelfall zum Besucher mit einem Ehrenhof, der in
+            der Frühen Neuzeit jedoch oft mit einem Gitter oder sogar einer Mauer geschlossen war.
+            Man unterscheidet zwischen einer offenen und einer geschlossenen Dreiflügelanlage. Das
+            Corps de logis ist immer der durch seine Lage betonte Mittelflügel. Dreiflügelanlagen
+            wurden bereits früh auch in Deutschland errichtet. Schon im 16. Jahrhundert etablierte
+            sich dieser Typus in Schleswig-Holstein, und bereits 1634–36 wurde in
+              <italic>Plön</italic> ein Residenzschloss als Dreiflügelanlage errichtet. Eine
+            Vorbildfunktion <italic>Versailles’</italic> ist für weite Bereiche Deutschlands in
+            Bezug auf die Massenverteilung auszuschließen. Nicht jedes Gebäude, das einen Ehrenhof
+            ausbildet, muss übrigens eine Dreiflügelanlage sein. Schlösser wie
+              <italic>Würzburg</italic> oder <italic>Bruchsal</italic> etwa verbergen im
+            Hauptgebäude Binnenhöfe und bestehen aus mehr als drei Flügeln.</p>
+          <p>Relativ selten wurden Zweiflügelanlagen konzipiert. Findet man derartige Bauten aus der
+            Zeit vor dem 19. Jahrhundert, kann man davon ausgehen, dass es sich um unvollendete
+            Vier- oder Dreiflügelanlagen handelt wie etwa in <italic>Molsberg</italic>. Weit
+            verbreitet waren dagegen Einflügelanlagen bzw. Hauptgebäude, die keine wie auch immer
+            gearteten Flügel ausbildeten und nicht gerichtet waren. In letzterem Fall ist an
+            Pavillons zu denken oder Zentralbauten, aber auch an die schleswig-holsteinischen
+            Zweifach- und Dreifachhäuser.</p>
+          <p>Zuletzt kann die heterogene Gruppe von Hauptgebäuden genannt werden, die sich aus
+            vielen Flügeln zusammensetzte, aber keinem der genannten Typen angehörte. Wird man auch
+            zuerst an die Schlösser und Burgen des 19. Jahrhunderts denken wie etwa
+              <italic>Neuschwanstein</italic>, <italic>Babelsberg</italic> oder den Kaiserpalast in
+              <italic>Straßburg</italic>, so gehören zu ihnen auch die meisten Residenzen der
+            vorangehenden Jahrhunderte, die immer wieder erweitert wurden wie <italic>Wien</italic>,
+              <italic>München</italic> oder <italic>Berlin,</italic> und auch jene Schlösser, die
+            zwar den Eindruck einer Drei- oder Vierflügelanlage erwecken, aber bei weitem mehr
+            Flügel haben wie etwa <italic>Mannheim</italic>, <italic>Würzburg</italic> oder
+              <italic>Bonn</italic>. Ferner erhielten viele Dreiflügelanlagen begleitende Flügel wie
+            beispielsweise <italic>Mannheim</italic> oder <italic>Arolsen</italic> und selbst
+              <italic>Versailles</italic>, so dass auch solche Bauten diesem letzten Typus
+            angehören. Im 19. Jahrhundert treten neben die bewusst symmetrisch gestalteten
+            Hauptgebäude Anlagen, die ein malerisch-organisches und damit asymmetrisches Aussehen
+            erhalten und ebenfalls über mehrere Flügel verfügen.</p>
+          <p>Es ist jedoch festzuhalten, dass bei allen betrachteten Typen von Hauptgebäuden bis auf
+            den Pavillon eine Hierarchisierung des Baukörpers möglich ist, bei der der wichtigste
+            Bereich bzw. Flügel hervorgehoben wurde, nämlich das Corps de logis. Eine
+            Hierarchisierung der Flügel erfolgt dabei durch Größe, Lage oder Bauschmuck bzw. eine
+            Kombination dieser Elemente.</p>
+          <p>Im 15. und frühen 16. Jahrhundert werden die Fassaden der Schlösser häufig mit
+            flächigen Gliederungsmitteln wie Malerei oder Sgraffiti (Kratzputzen) gestaltet. Hinzu
+            kamen Beschlag- und Rollwerk im 16. und 17. Jahrhundert, die vor allem an Einzelteilen
+            der Fassade wie Erkern, Portalen, Giebeln und Sockeln Verwendung fanden. Ein wichtiges
+            Schmuck- und Gliederungselement waren anfänglich auch die großen, meist mittig vor die
+            Fassaden gesetzten Treppentürme des 15. und 16. Jahrhunderts. Sie blieben auch bei
+            Neubauten bis ins 17. Jahrhundert hinein modern. Doch setzte sich bis ins 19.
+            Jahrhundert immer mehr das Ideal einer regelmäßigen Fassade durch, die nur wenige
+            Vorsprünge in Gestalt von Risaliten oder Pavillons erhielt. Treppentürme, Erker und
+            Balkone verschwanden zunehmend oder wurden nur noch zur baulichen Akzentuierung der
+            Mitte des Corps de logis verwendet.</p>
+          <p>Seit dem 17. Jahrhundert sind die fünf Säulenordnungen das vorherrschende Element der
+            Gestaltung und Gliederung von Schlossbauten, die es dem kundigen Betrachter zudem
+            ermöglichen zu erkennen, welche Stellung ein Gebäude, ein Stockwerk oder ein Eingang hat
+            bzw. haben sollte. Säulen hatten nämlich einen bestimmten Rang, der dem Status des
+            Gebäudes, Stockwerkes oder Eingangs entsprechen musste. Daneben bestimmte die
+            Superposition jedoch entsprechend der Rangfolge der Säulen ihre Anordnung etwa an einer
+            Fassade übereinander. Die aufsteigende Abfolge von toskanischer, dorischer, ionischer,
+            korinthischer und kompositer Ordnung war unveränderlich und konnte in Konflikt mit dem
+            Rang eines Geschosses geraten. Im 19. Jahrhundert galt der Säulenkanon zwar weiterhin,
+            mit der Wiederverwendung historischer Formen der Gotik oder Romanik musste aber in
+            diesen Fällen auf Säulenordnungen verzichtet werden. Diese Bauten zeichnen sich
+            teilweise durch eine Fülle von Ornamenten und Skulpturen, aber auch Schrifttafeln aus.
+            Auch solche Fassaden lassen sich lesen, jedoch ist das System nun bei weitem komplexer
+            und nicht mehr allgemein verbindlich. Zudem können jetzt nicht mehr nur verschiedene
+            Säulen, sondern ganz verschiedene Stile herangezogen werden, um die Bauten zu
+            charakterisieren. Der assoziative Charakter einer Fassade durch bauliche Hinweise auf
+            die Geschichte der Burgen- und Schlossarchitektur bekräftigte den Rang des Gebäudes bzw.
+            seines Besitzers. Dies konnte allerdings zu einer formalen Angleichung bürgerlicher
+            Bauten an landesherrliche Schlösser führen, so dass neben die bereits genannte
+            funktionale Auszehrung des Schlosses eine formale trat.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Komplexe Nutzung</italic>
+          </title>
+          <p>Dem Besucher werden heute oft nur die Eingangshalle, das Treppenhaus und einige
+            Repräsentationsräume eines Schlosses vorgeführt. Doch machten diese nur den geringsten
+            Teil der Räume aus. Im Schloss mussten nicht nur verschiedene Funktionsbereiche
+            untergebracht werden, das Aufeinandertreffen diverser Menschen ungleichen Ranges und
+            verschiedener Interessen war so zu organisieren, dass sich ihre Verkehrswege möglichst
+            wenig oder gar nicht überschnitten. Hier manifestierte sich baulich die ständische
+            Gesellschaft.</p>
+          <p>Am Eingang eines Residenzschlosses befand sich die Schlosswache. Manchmal handelte es
+            sich nur um einen Holzverschlag, oft auch um ein reguläres Gebäude. In einem Schloss
+            konnte ein Gefängnis untergebracht sein, ein Zeughaus, in dem Waffen und Munition
+            aufbewahrt wurden, oder eine Rüstkammer. Im weitesten Sinne dienten alle diese Bereiche
+            der Sicherheit des Staatsoberhauptes. Für die Administration des Staates gab es
+            umfangreiche Räumlichkeiten für die verschiedenen Ämter und Behörden wie Ratsstube oder
+            Finanzkammer, ein Archiv, eventuell eine Münze, eine Rentei und bei protestantischen
+            Landesherrn ein Konsistorium, da diese zugleich auch oberste Kirchenherren in ihrem Land
+            waren. Manchmal gab es im Schloss sogar Räume, in denen die Ständeversammlung des Landes
+            tagte; im 18. und 19. Jahrhundert wurde die Administration jedoch weitgehend aus dem
+            Schloss ausgelagert.</p>
+          <p>Es konnte Reitbahnen oder auch Reithäuser geben, Ballhäuser, Opernhäuser und Theater,
+            Bibliotheken und Sammlungsräume. Um das Schloss herum lagen Gärten, die nicht nur wie
+            die Lustgärten der Erbauung dienten, da auch Obst- und Küchengärten oder gar
+            medizinische Gärten angelegt wurden.</p>
+          <p>Zur Versorgung der Menschen am Hof – es waren oft mehrere hundert – waren Brauhäuser,
+            Bäckereien und Konditoreien, Schlachtereien, Kornhäuser, Wein- und Bierkeller sowie
+            weitere Lagerräume, Eiskeller, Waschhäuser und mehrere Küchen vorhanden. Letztere
+            brachte man häufig in einem eigenen Gebäude unter. Geschirr und Bestecke wurden u.a. in
+            Silberkammern aufbewahrt; es gab Räumlichkeiten für Wäsche und Bettzeug, Lager für
+            Kerzen und Holz. Selbstverständlich verfügte ein Schloss auch über Lagerräume für
+            ausrangierte oder zwischenzeitlich nicht gebrauchte Möbel. Es gab Marställe und
+            Wagenhäuser, Schlittenkammern usw. Zur Reparatur benötigte man Sattlerei und Schmiede.
+            Um Lärm und Gestank zu vermeiden, aber auch aus Platzgründen befanden sich im Laufe der
+            Zeit immer mehr Marställe und Kutschenhäuser in eigenen Bauten. Im 20. Jahrhundert kamen
+            Garagen und manchmal auch eigene Tankstellen hinzu. Fast immer waren auch eine
+            Hofapotheke sowie ein Krankenzimmer vorhanden.</p>
+          <p>Ferner gab es im Schloss Unterkunftsmöglichkeiten für Teile des Personals, für Besucher
+            und Gesandte. Das Personal hielt sich, sofern es nicht beschäftigt war, in Gesindestuben
+            auf und speiste seit dem 17. Jahrhundert meist in eigenen Tafelstuben von der
+            Landesherrschaft getrennt. Lakaien und Pagen erhielten oft eigene Aufenthaltsräume, und
+            vornehmere Diener konnten auch ein eigenes Gemach bekommen. Selbstverständlich hatte der
+            Kastellan seine Unterkunft im Schloss.</p>
+          <p>Nicht zu vergessen sind die sogenannten Secrets bzw. Aborte für die Notdurft, die in
+            deutschen Schlössern weit verbreitet waren. Im 19. Jahrhundert wurden sie zunehmend
+            durch Wasserklosetts ersetzt. Selten waren Prunkbäder oder Prunkküchen, doch betrieb
+            zumindest die Landesherrschaft regelmäßige Körperpflege. Zum Baden genügten aber auch
+            Zuber und Bottiche. Seit dem 19. Jahrhundert setzte sich dann aber das moderne Bad
+            durch.</p>
+          <p>Die landesherrlichen Gemächer lagen im Corps de logis in der ›Beletage‹, dem ›Piano
+            nobile‹ bzw. dem Hauptgeschoss. Dieses war meist der erste Stock, selten auch der
+            zweite. Die landesherrlichen Repräsentationsräume mussten dabei nicht mit den realen
+            Wohnräumen identisch sein. Im Laufe der Zeit wurde diese Raumfolge immer umfangreicher.
+            Aus einem Stubenappartement, das sich aus Wohnstube und Schlafkammer zusammensetzte,
+            entwickelte sich eine umfangreiche Raumfolge von mehreren Zimmern. Um 1700 wurde in
+            Deutschland für Residenzschlösser eine Abfolge von Vorzimmern, Audienzzimmer,
+            Paradezimmer mit Bett und nachgeordneten Räumen sowie Kabinetten verbindlich. Seit dem
+            17. Jahrhundert setzte sich für Appartements ferner vermehrt die sogenannte ›Enfilade‹
+            durch. Bei ihr wurden die Türen zwischen den Zimmern einer Raumfolge und im Idealfall
+            alle aufeinander folgenden Türen eines Flügels mit abschließenden Fenstern in einer
+            Achse angeordnet, so dass der Blick bei geöffneten Türen durch alle Räume hindurch aus
+            dem Gebäude hinaus ins Unendliche schweifen konnte. Diese Prinzipien blieben modifiziert
+            bis in das 20. Jahrhundert gültig.</p>
+          <p>In direktem Zusammenhang mit den Gemächern der Landesherrschaft standen die Räume für
+            das Kammerfräulein oder die Kammerjungfer, den Kammerdiener oder Kammerjungen. Sie lagen
+            häufig in Zwischengeschossen oder in Zwischenräumen in den Wänden, aber immer in großer
+            Nähe zur Herrschaft.</p>
+          <p>Eine besondere Bedeutung hatten die Kommunikationswege und verschiedene Säle im
+            Schloss. Sie können zwischen einem repräsentativen offiziellen und einem funktionalen
+            privaten Bereich unterschieden werden. Der Besucher bekommt heute im Allgemeinen nur den
+            öffentlichen Teil zu sehen. Hierunter sind Eingangshallen, Prunktreppenhäuser, Galerien
+            und Korridore zu verstehen. Es gibt jedoch in nahezu jedem Schloss Nebentreppen und
+            geheime Gänge in den Wänden – Degagements –, die es ehemals ermöglichten, unbemerkt von
+            einem Ort des Schlosses zum anderen zu gelangen. Derartige Verbindungen konnten etwa
+            zwischen den Schlafzimmern von Landesherr und Landesherrin liegen. Vor allem dienten sie
+            aber dem Personal dazu, die Räume des Schlosses zu erreichen, ohne die Herrschaft durch
+            ihre Anwesenheit in einem Zimmer zu stören. Öfen etwa wurden bevorzugt von diesen Gängen
+            aus befeuert, was zudem verhinderte, dass Ruß und Lärm beim Nachlegen in die prunkvollen
+            Zimmer gelangte.</p>
+          <p>Säle dienten dem Zusammentreffen mehrerer Menschen. Der Hauptsaal befand sich
+            anfänglich in einem Seitenflügel am Ende einer Raumfolge. Markgraf Ludwig von
+            Baden-Baden etablierte in Schloss <italic>Rastatt</italic> zu Beginn des 18.
+            Jahrhunderts jedoch dessen zentrale Lage im ersten Geschoss als Ouvertüre zu den
+            landesherrlichen Repräsentationsgemächern, die sich beiderseits anschlossen. Vorher
+            hatte der Saal oft über der Schlosskapelle gelegen, nun befand sich unter ihm oft eine
+            ›Sala terrena‹, die zum Garten überleitete. Hauptsäle waren nämlich jetzt wie die
+            Gemächer von Landesherr und Landesherrin auf den Schlossgarten ausgerichtet. An weiteren
+            Sälen gab es die Tafelgemächer – in denen anfänglich noch der ganze Hof gemeinsam
+            speiste – sowie Speiseräume für den Landesherrn und eventuell auch seine Familie sowie
+            Festsäle.</p>
+          <p>Die Schlosskapelle war der einzige Ort, wo nach Abschaffung der gemeinsamen Mahlzeit
+            alle Mitglieder des Hofes zusammentrafen. Doch wurde auch hier auf eine strenge Trennung
+            nach Rang und Standeszugehörigkeit geachtet. Während im Kirchenschiff das Personal
+            seinen genau festgelegten Platz erhielt, bekamen höhere Chargen ihren ebenfalls
+            bestimmten Platz auf Emporen. Im Mittelpunkt dieses Systems befand sich der sogenannte
+            Herrschaftsstand des Schlossherrn. Dieser war ornamental besonders reich geschmückt und
+            im Allgemeinen mit Glasscheiben zu verschließen. So konnte in der kalten Jahreszeit in
+            der ungeheizten Kirche wenigstens das Staatsoberhaupt vor gefährlichen Erkältungen und
+            das Land damit vor einer Krise bewahrt werden.</p>
+          <p>Die Räume des Schlosses, die sich repräsentativ an die Öffentlichkeit richteten, wurden
+            prächtig gestaltet und aufwendig ausgestattet. Auch hier fanden sich Säulen oder ihre
+            reduzierte Variante in Form von Pilastern. Das wandfeste Programm von Stuck und Malerei
+            bezog sich auf den Herrscher, seine Dynastie oder die Herrschaft. Dominierten bis in das
+            17. Jahrhundert Kassettendecken, setzte sich später eine Gestaltung aus Stuck und
+            Malerei durch. Für das Deckenbild des Hauptsaals war die Darstellung des antiken
+            Götterhimmels beliebt – eine Anspielung auf die umfassende Herrschaft des Schlossherrn.
+            Bei einem erfolgreichen Feldherrn konnten in Form von Skulpturen gefangene Gegner und
+            erbeutete Waffen präsentiert werden. In Audienzgemächern stellte man eher Allegorien der
+            Mäßigung und Gerechtigkeit auf. In den Gemächern von Landesherrinnen zeigte man
+            Darstellungen der treuen Liebe oder wies auf die vermeintliche Hauptaufgabe der Frau
+            hin, Kinder zu gebären. Beliebt war es auch, Ahnengalerien oder Wappenfolgen zu
+            präsentieren, um die Legitimität seines aktuellen Standes durch die Abstammung
+            nachzuweisen. Grundregeln der Ausstattung waren, dass der Aufwand der Bedeutung des
+            Raumes angemessen sein sollte und dass jeder Raum wie auch eine Abfolge von Räumen einem
+            schlüssigen System zu unterliegen hatte. Farbe, Material und Möblierung waren mit Wand,
+            Decke und Fußboden aufeinander abgestimmt. Im 19. Jahrhundert wandelte sich die
+            Ausstattung. Neben die Einheitlichkeit der Räume traten Gemächer unterschiedlicher
+            Stile, die bestimmte Stimmungen vermitteln sollten. Bis ins 19. Jahrhundert galt das
+            Ideal der Symmetrie zudem nicht nur für den Außenbau, sondern auch für das Innere sowie
+            die Ausstattung.</p>
+          <p>Diese idealen Muster für ein landesherrliches Residenzschloss dürften in der Realität
+            kaum zu finden sein und galten zudem nur bedingt für andere Schlösser. Auf Jagd- und
+            Lustschlössern etwa waren Raumprogramm und Aufwand der Fassaden geringer. Und dies mit
+            gutem Grund: Es galt als absolut unschicklich, ein geringeres Gebäude aufwändiger als
+            den bedeutendsten Bau des Landes zu gestalten. Jagd- und Lustschlösser mussten sich
+            formal dem Residenzschloss unterordnen. Will man beurteilen, ob diese Bauten besonders
+            groß oder prächtig waren, muss immer die Residenz zum Vergleich herangezogen werden. Sie
+            ist der Maßstab. Jagd- und Lustschlösser waren kleiner dimensioniert als Residenzen und
+            meist mit niederrangigen Säulenordnungen geschmückt als diese. Nicht selten verzichteten
+            sie gänzlich auf architektonischen Schmuck, erhielten nur eine Fassadenmalerei oder
+            präsentierten sich als unverputzte Fachwerkbauten. Sie hatten kleine Appartements, die
+            teilweise nur aus drei Zimmern bestanden, die Paradezimmer konnten auch im Erdgeschoss
+            liegen. Im Innern finden sich nur bedingt wandfeste Ausstattungen, die sich auf die
+            Staatsregierung beziehen. Vielmehr gelangen ländliche Szenen, Jagden und Tiere,
+            Musikinstrumente oder Theatermasken zur Darstellung. Öfen und Kamine finden sich in
+            Schlössern auf dem Lande seltener, da viele nur im Sommer genutzt wurden.
+            Wandbespannungen und Möbel befanden sich zudem oft gar nicht im Schloss, sondern wurden
+            nur bei Bedarf dorthin gebracht.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Die Architektur in Abhängigkeit von Rang und Status des Besitzers und der
+              Bauaufgabe</italic>
+          </title>
+          <p>Aussehen und Gestaltung der Schlösser wurden durch ihre Funktion bestimmt. Zentrum der
+            Bemühungen war dabei die Person des Landesherrn. So bedingte beispielsweise der Zugang
+            zu ihm seit dem Ende des 17. Jahrhunderts die Abfolge von Vestibül, Treppenhaus,
+            Garde-saal, Hauptsaal und Appartements, wobei die Raumfolge in den Appartements
+            ebenfalls dem Prinzip der Segmentierung des Zugangs gehorchte. In bilateralen Verträgen
+            legten die Herrscher fest, wie sie selbst oder ihre Stellvertreter, etwa Gesandte,
+            behandelt werden sollten. Das Zeremoniell regelte beispielsweise konkret das
+            Aufeinandertreffen von Personen. Es wurde genau bestimmt, ob Besucher im Hof, an oder
+            auf der Treppe, im Saal oder in einem der Zimmer empfangen wurden. Ebenso war definiert,
+            in welchen Räumen mit wem Mahlzeiten eingenommen wurden oder in welcher Art von Zimmern
+            Gäste einzuquartieren waren.</p>
+          <p>Ein Schlossherr hatte bei der Erbauung eines Schlosses demnach wenig Spielraum, was
+            Abfolge und Anzahl der Zimmer betrug. Sollte es nicht zu diplomatischen Verwicklungen
+            kommen oder wollte er sich nicht als minderrangig deklassieren, war er gezwungen, sich
+            den Anforderungen des Zeremoniells, von denen er andererseits ja auch profitierte, zu
+            beugen. Nur aufgrund des Zeremoniells kam es in Deutschland zur Aufnahme eines
+            Schlafzimmers in die offizielle Raumfolge. Tatsächlich als Schlafstätte genutzt wurde es
+            fast nie. Am häufigsten nächtigten dort noch Gäste, denen das Appartement als
+            Ehrbezeigung abgetreten worden war.</p>
+          <p>Auf Jagd- und Lustschlössern galten viele dieser für die Residenz entwickelten Muster
+            nur in abgeminderter Form. Ein zeremoniellfreier Raum war jedoch auch hier nicht
+            vorhanden. So ist für die Raumnutzung dasselbe festzustellen wie für die formale
+            Gestaltung. Vorbild war die Residenz, andere Bauten waren nachgeordnet.</p>
+          <p>Änderte ein Schlossherr seinen Status, beispielsweise durch eine Standeserhöhung vom
+            Grafen zum Fürsten oder von einem Herrn zum Grafen, musste er seine Schlösser
+            entsprechend seinem neuen Rang ergänzen oder gar neu bauen. Denn die ständische
+            Gesellschaft differenzierte sehr wohl auch innerhalb des Adels und zwischen den
+            Landesherrn. Nach dem Kaiser kamen die Kurfürsten, gefolgt von den übrigen Fürsten.
+            Unter diesen standen Grafen, Ritter und Herren sowie Bürgerliche, Bauern und Unfreie. Je
+            höher der Rang war, umso mehr Schlösser benötigte man, vor allem aber mussten die
+            Schlösser prächtiger, die Raumfolgen umfangreicher, die Säle größer sein. Es genügte
+            nicht, einen Rang zu haben, man musste diesen präsentieren, sonst galt er nichts. Manch
+            ein Graf, der die Möglichkeit hatte, ein Fürst zu werden, verzichtete aufgrund der
+            Kosten darauf. Andere ruinierten sich nach der Erhebung im Bemühen, ihrem neuen Status
+            gerecht zu werden. Dieser Umstand erklärt auch noch einmal, warum die Häuser des Adels
+            nicht zu den Schlössern gezählt werden können: An sie wurden bei weitem mindere
+            Anforderungen gestellt.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Schlossareal und Umfeld</italic>
+          </title>
+          <p>Schlösser standen nicht isoliert in der Stadt oder auf dem Lande. Vielmehr war ihr
+            Umfeld nach bestimmten Regeln gestaltet. Bei allen Schlössern gab es bis in das 19.
+            Jahrhundert eine klar sichtbare Grenze, die das Areal des Schlosses von seinem Umfeld
+            abgrenzte. Dies war notwendig, da das Schlossareal ähnlich einem Kloster einen eigenen
+            Rechtsbezirk definierte, in dem der Burgfrieden galt. Das <italic>Berliner
+              Stadtschloss</italic> etwa gehörte kommunalrechtlich bis 1918 nicht zur Stadt Berlin.
+            Zur Abgrenzung gab es verschiedene Möglichkeiten: Mauern, Gräben, Gitter oder auch nur
+            Markierungen im Pflaster. Gerade im 16. Jahrhundert, aber sogar noch vom 17. bis ins 19.
+            Jahrhundert wurden Schlösser immer wieder auch von regulären Befestigungen umfangen, die
+            nicht nur eine Grenze markierten, sondern ganz real der Verteidigung dienen sollten.</p>
+          <p>Vor allem befanden sich im Schlossareal Bauten, die jene Funktionsbereiche aufnahmen,
+            für die im Hauptgebäude kein Platz vorhanden war oder die man aus verschiedenen Gründen
+            dort nicht unterzubringen wünschte. Ökonomiebauten galten als wenig repräsentativ und
+            wurden versteckt wie Wasch- und Backhäuser. Andere Nebengebäude waren jedoch wichtig und
+            wurden präsentiert wie Ballhäuser oder Theater. Eine besondere Bedeutung kommt den
+            Marställen und Lustgärten zu. Beide wurden bewusst gezeigt und aufwendig gestaltet.
+            Aufgrund der zentralen Stellung, die das Pferd und die Reitkunst in der Kultur des Adels
+            einnahmen, geriet die Gestaltung von Marställen und Reithäusern teilweise so komplex,
+            dass sie zur Zierde eines Schlosses werden konnten. Im 19. Jahrhundert wurden die
+            meisten dieser Bereiche aber ebenfalls aus dem Schlossareal ausgelagert.</p>
+          <p>Auf die Bedeutung der Gärten wurde bereits an anderer Stelle eingegangen. Sie befanden
+            sich bis auf wenige Ausnahmen unter bzw. vor den landesherrlichen Gemächern und waren
+            damit nur von jenen Personen wahrzunehmen, die das Corps de logis betreten durften.
+            Gärten dienten als erweiterter Nutzungsbereich der Schlösser, aber auch der
+            Repräsentation. Hier sind vor allem Orangerien und Menagerie zu nennen, mit deren Besitz
+            sich der frühneuzeitliche Landesherr auch als Herr über die Tier- und Pflanzenwelt
+            darstellte. So wurde die Allmacht des Herrschers nicht nur über die Menschen vorgeführt.
+            In Orangerien, Lust- und in Tiergärten äußerte sich aber immer auch die finanzielle
+            Potenz des Besitzers und sein wissenschaftliches Interesse. Viele botanische oder
+            zoologische Gärten sind aus landesherrlichen Institutionen hervorgegangen. Da auch die
+            Gärten einen eigenen Rechtsbezirk markierten, waren sie ebenfalls von ihrem Umfeld
+            abgegrenzt, und sei es nur durch einen Graben, der vor allem im Landschaftsgarten im
+            Gegensatz zu Mauern den Blick in die Ferne frei ließ.</p>
+          <p>Die Lustgärten haben im Lauf der Neuzeit ihr Aussehen mehrfach grundlegend geändert.
+            Weder ein formaler geometrischer Garten des 17. und 18. Jahrhunderts noch ein
+            Landschaftsgarten des 19. und 20. Jahrhunderts ist original erhalten. Seine Prinzipien
+            können aber sehr wohl erkannt werden: Ideeller Bezugspunkt – über geometrische Raster
+            oder über quasinatürliche Sichtachsen – ist immer das jeweilige Schloss.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Funktionswandel und Ende</italic>
+          </title>
+          <p>Schlösser waren immer einem Funktionswandel unterworfen. Daher sind viele Bauten
+            gegenwärtig als Schlösser nicht mehr zu erleben oder gar nicht mehr zu erkennen. Heute
+            werden in Deutschland aufgrund des Endes der Monarchie 1918 nur noch sehr wenige
+            Schlösser von Adligen bewohnt – ihnen blieben jedoch oft die Häuser. In die Schlösser
+            zogen Museen ein, oder sie wurden wieder administrativen Funktionen zugeführt und sind
+            heute Verwaltungssitze. Das Schloss als Bauaufgabe gibt es seit 1918 nicht mehr. Viele
+            Schlösser wandelten jedoch auch in der Neuzeit ihre Funktion. Wenn eine Dynastie
+            ausstarb und das Land in ein anderes eingegliedert wurde, gab es oft für das
+            Residenzschloss keine Verwendung mehr oder der Bau wurde zum Lustschloss, Witwen- oder
+            Apanagesitz für den neuen Landesherrn bzw. seine Familienmitglieder. Wurde ein Land
+            geteilt, konnten Apanagesitze oder Jagdschlösser zu Residenzschlössern ausgebaut werden.
+            Die meisten Jagd- und Lustschlösser verloren jedoch bereits im 18. und 19. Jahrhundert
+            ihre Funktion. Oft hatten die Bauten nur eine Generation Bestand, da sich die Mode
+            gewandelt hatte oder eine jüngere Generation einfach anderen Interessen nachging. Meist
+            kam es dann zum Verkauf und Abriss der Bauten, in anderen Fällen nutzte man die
+            Architekturen um und brachte Gefängnisse, Krankenhäuser, Kunstsammlungen, Verwaltungen
+            oder Universitäten in ihnen unter. Im 20. Jahrhundert kam oft die Nutzung als Hotel oder
+            Tagungszentrum hinzu.</p>
+          <p>Die Bauten sind heute oft nur unter großen Schwierigkeiten von Privatleuten zu
+            erhalten. Die Land- und Forstwirtschaft – die ehemalige wirtschaftliche Grundlage etwa
+            der Herrenhäuser – bringt nicht mehr genug Ertrag. Hinzu kommen die immensen Kosten, die
+            die Erhaltung eines denkmalgeschützten Gebäudes mit sich bringen und die nur zum Teil
+            von der Steuer abgesetzt oder im Erbschaftsfall mindernd geltend gemacht werden können.
+            Sofern die Bauten nicht bewohnt werden, sind sie daher seit dem 20. Jahrhundert oft
+            Hausstiftungen übertragen worden, die um den Erhalt von Architektur und teilweise
+            hochkarätiger Sammlungen im Innern, aber auch um die Zugänglichkeit für die
+            Öffentlichkeit Sorge tragen. So werden adelige Häuser und Schlösser in Deutschland heute
+            als Museum wahrgenommen. Bauten, die noch bewohnt werden, sind im Bewusstsein der
+            Bevölkerung kaum präsent. <italic>H. L.</italic></p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Festungen</title>
+        <p>Festungen sind nicht allein die ausgedehnten und stark bewaffneten Verteidigungsanlagen
+          aus der Zeit Vaubans und seiner Nachfolger; Festungen sind vielmehr im weitesten Sinne
+          Anlagen zur Verteidigung gegen Feuerwaffen mit Feuerwaffen. Nicht die Ausdehnung der
+          Anlage, nicht die Dicke der Mauern, nicht die Größe oder Effektivität der eingesetzten
+          Truppe und auch nicht die strategische Aufgabe unterscheiden eine Burg oder befestigte
+          Stadt von einer Festung, sondern allein die systematische Umsetzung von baulichen
+          Abwehrmaßnahmen gegen Feuerwaffen. Das stärkere Aufkommen dieser Waffen ab etwa 1450
+          änderte zunächst den Charakter der Burgen, dann auch der Städte und schließlich mit dem
+          Einsatz neuer Rohre, Granaten und Explosivstoffe auch ganzer Landschaften.</p>
+        <p>Befestigung ist seit jeher eine Reaktion auf eine Bedrohung durch einen Gegner, nach
+          dessen technischem Stand der Angriffswaffen sich die Abwehrmaßnahmen richten. Diese
+          Verteidigungsbauten zeigen über Jahrhunderte bis in die letzten Jahrzehnte des 15.
+          Jahrhunderts keine wesentliche Veränderung. Die Beherrschung des Angreifers durch
+          Annäherungshindernisse und Überhöhung, d. h. durch bauliche Elemente wie Graben, Wall oder
+          Mauer und Turm, sind seit den babylonischen Befestigungen über die römischen Limesbauten
+          bis zu den Ordensburgen in der grundlegenden Typologie gleich geblieben; Modifizierungen
+          gab es nur bei der Materialverwendung und der Dimensionierung. Eine solche befestigte
+          Anlage konnte durch Aushungern, Brand, Verrat, durch einen verlustreichen Sturmangriff
+          oder nach Zerstörung durch Steingeschosse genommen werden; die Beschießung erfolgte durch
+          Katapulte oder Schleudern, wobei die Geschosse in hohem Bogen geworfen wurden, aber im
+          Wesentlichen nur die oberen Bauteile trafen.</p>
+        <sec>
+          <title>
+            <italic>Waffenentwicklung und Festungsbau</italic>
+          </title>
+          <p>Die ersten Nachweise für kleine Feuerwaffen gibt es für die Mitte des 14. Jahrhunderts.
+            Bis zur Mitte des 15. Jahrhunderts waren diese Waffen und ihre Kugeln bis auf
+            Riesendimensionen gesteigert worden: Bei Rohrgewichten bis 20 t konnte man Steinkugeln
+            mit 400 kg Gewicht verschießen. Der Schrecken, den die Türken 1453 bei der Beschießung
+            von Konstantinopel mit solchen Geschützen verbreiteten, erfasste ganz Europa. Mit der
+            Umstellung auf kleinere Kugeln aus Eisen und auf kleinere Rohre um 1500 konnten die
+            Geschütze auf Räderlafetten montiert werden. Gegenüber der mittelalterlichen
+            Belagerungsartillerie und den Riesengeschützen hatte die neue Artillerie nun deutliche
+            Vorteile: Sie war auf Räderlafetten mobil geworden und verschoss Kugeln mit
+            erstaunlicher Zielgenauigkeit und mit einer so hohen Anfangsgeschwindigkeit (Rasanz),
+            dass sie in fast gerader Linie flogen und daher der direkte Beschuss eines Mauerfußes
+            und somit der Einsturz der ganzen Mauer möglich wurde.</p>
+          <p>Eine Burg war allein durch ihre aufragenden Türme weithin in der Umgebung als Zeichen
+            der Macht erkennbar; das galt auch zunächst für Höhenfestungen, die wie gestrandete
+            Schlachtschiffe auf dem Berg lagen und ihre militärische Dominanz unübersehbar zeigten.
+            Doch bei Festungen in den Niederungen nahm die Entwicklung schon früh einen anderen Weg:
+            Sie verschwanden aus der Sicht, aus der Silhouette; sie tauchten unter das Glacis ab,
+            lagen jedoch im Wesentlichen noch ebenerdig, aber nur knapp über dem Geländehorizont. Da
+            die Festungswerke von den Schussbahnen der Artillerie bestimmt werden, gab ihre
+            Darstellung aus der Passantenposition für einen Zeichner nicht mehr viel her.
+            Faszination erregte hingegen die Geometrie der Grundrisse, so dass man Darstellungen aus
+            der Vogelschau bevorzugte, obwohl niemand damals einen solchen Blick haben konnte.</p>
+          <p>Als sich in der 2. Hälfte des 19. Jahrhunderts die Schussleistungen der Artillerie
+            immer weiter verbesserten, mussten auch die Überdeckungen über den Artilleriestellungen
+            und Mannschaftsunterkünften verstärkt werden. Zunächst wurde die Erdaufschüttung nur
+            dicker, dann setzte man unbewehrten und später bewehrten Beton ein, schließlich
+            stählerne Panzerplatten. Das Ende der Entwicklung stellen die Bunkeranlagen dar, die zu
+            Beginn des Zweiten Weltkriegs 30 m unter der Oberfläche verschwanden oder durch Tarnung
+            »unsichtbar« wurden. Darstellungen aus dieser Zeit bringen im Grunde nur noch die Waffe
+            beim Abschuss.</p>
+          <p>Die Wirksamkeit von Festungen war und ist bis heute umstritten. Der Umstand, dass
+            manche Festung noch heute als uneinnehmbar bezeichnet wird und auch niemals eingenommen
+            wurde, kann nicht wie selbstverständlich ihre Stärke beweisen, sondern kann auch die
+            Folge davon sein, dass der Gegner kein Interesse an einer mühsamen Einnahme hatte.
+            Andererseits muss der Verlust einer Festung bei einer Belagerung noch nicht den
+            mangelnden strategischen Wert dieser Festung bestätigen, sondern kann auch auf eine
+            schlechte Vorsorge für den Verteidigungsfall oder auf mangelnde
+            Verteidigungsbereitschaft der Eingeschlossenen zurückzuführen sein. Für den preußischen
+            General Karl von Clausewitz (1832) galt jedenfalls ein Heer ohne Festungen als Körper
+            ohne Harnisch; Festungen stellten für ihn die ersten und bedeutendsten Stützen der
+            Verteidigung eines Landes dar, weil sie unter anderem die gegnerischen Offensivkräfte
+            banden, Sicherung und Schutz boten sowie den notwendigen Widerstand leisteten.</p>
+          <p>Festungen hatten aber selten einzig und allein militärische Funktionen wie z.B.
+              <italic>Silberberg</italic>, die <italic>Maginot-Linie</italic> oder der
+              <italic>Atlantik-Wall</italic>. Erst mit der Einführung der offenen Systeme, also der
+            vorgeschobenen, vom Siedlungskern getrennten Forts und damit der weit außerhalb der
+            Siedlungen erfolgenden Kampfführung, setzte sich die Trennung des Militärs von
+            Bevölkerung, Verwaltung, Gewerbe durch. Selbst in den Zitadellen des 18. Jahrhunderts
+            waren nicht allein Soldaten untergebracht. Zitadellen und Festungen waren auch noch
+            Schatzkammer des Staates, Hochsicherheitsgefängnis, Verwaltungssitz, Regierungssitz und
+            Unterkunft für die Soldatenfamilien. Manche Festungen hatten noch weitere Aufgaben, oft
+            die der Repräsentation des Staates, so dass sie in ihrer Mehrfunktionalität durchaus den
+            Burgen ähnlich sind. Je nachdem, welchen Stellenwert ein Standort für den Inhaber hatte,
+            wurden nicht nur Burgen zu Festungen ausgebaut, auch Schlösser konnten rondelliert oder
+            bastioniert werden.</p>
+          <p>Mit dem Einsatz von Feuerwaffen im Belagerungskrieg änderte sich auch die Befestigung
+            der zu sichernden Objekte. Die Entwicklung des Festungsbaus erweist sich, wie auch die
+            Technikgeschichte allgemein, als eine weitverzweigte Reihe von Versuchen, für neue
+            Anforderungen neue Lösungen zu finden. Die Entwicklung verlief dabei oft in kleinen
+            Schritten, manchmal gradlinig und konsequent, manchmal aber auch in Sprüngen und mit
+            Rückgriffen auf längst überholt geglaubte Elemente. Man kann im Wesentlichen vier Phasen
+            des Festungsbaus in Deutschland unterscheiden, die sich allerdings öfters überschneiden:
+            die Übergangsphase 1450–1540; geschlossene Systeme 1500–1750 (Rondellierung,
+            Bastionierung, Tenaillierung); gemischte Systeme 1660–1785 (französische Manieren, vor
+            allem die von Vauban, Altpreußische Manier); offene Systeme 1740–1918 (Fortgürtel, Neue
+            Deutsche Befestigung, Befestigungsgruppen).</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Entwicklung der Festungssysteme</italic>
+          </title>
+          <p>Die vielen Anläufe beweisen, wie schwierig es war, eine passende Antwort auf die
+            jeweils neue Waffentechnik zu finden, und die unterschiedliche Übernahme neuer
+            Verteidigungssysteme zeigt, dass deren Effektivität für die damaligen Bauherren
+            keineswegs erwiesen war. Auffällig ist dabei, wie schnell sich manches neu entwickelte
+            System in ganz Europa verbreiten konnte: Die Spionage hatte damals ein reiches
+            Betätigungsfeld.</p>
+          <p>So vielfältige Wege der Festungsbau nahm, so groß war auch der Variantenreichtum der
+            Anlagen selbst. Das verwundert nicht, wenn man bedenkt, dass die territoriale
+            Zersplitterung in Deutschland zu zahlreichen selbstständigen oder halbselbstständigen
+            Gebieten geführt hatte. Die territoriale Entwicklung Brandenburgs oder Bayerns strebte
+            auf eine politische Einheit hin; die Zahl der Festungen ist dort deutlich geringer. Je
+            mehr eine Region politisch zerstückt war, desto mehr Grenzen hatte sie und desto größer
+            war die Zahl der Verteidigungseinrichtungen.</p>
+          <p>Hatten bis etwa 1500 die Verteidigungsanlagen von Burgen und Städten in Deutschland
+            noch eine ähnliche Entwicklung genommen, so ging etwa ab 1500, mit dem Bau der Rondelle,
+            die weitere Entwicklung unterschiedliche Wege. Zugleich gingen in diesem Zeitraum die
+            Fehden in Kriege über, d. h. Streitigkeiten zwischen der Ritterschaft und den Städten
+            unter- und gegeneinander wurden nicht mehr von wenigen Bewaffneten ausgetragen,
+            Auseinandersetzungen erfolgten von jetzt ab im Wesentlichen nur noch zwischen den
+            Landesherren bzw. Staaten mit großen Heeren. Der Grund lag in dem außerordentlich hohen
+            Finanzaufwand sowohl für die Sicherung gegen feindliche Artillerie als auch für die
+            Beschaffung von eigener Artillerie. Es gab daher die Möglichkeiten, entweder das
+            Wettrüsten aufzugeben und sich damit unter Souveränitätsverlust in die Abhängigkeit von
+            anderen zu begeben, oder notwendige Modernisierungen vorzunehmen und sich eventuell hoch
+            zu verschulden, oder die Anlagen auf gut Glück nicht gegen Artillerie zu sichern,
+            sondern nur gegen Infanterie, oder sich auf wenige wichtige Stützpunkte zu beschränken
+            und die anderen im Kriegsfall dem Feind kampflos oder nach Rückzugsmanövern zu
+            überlassen.</p>
+          <p>Die Entwicklung führte schon früh in Richtung auf den letztgenannten Fall. Spätestens
+            seit dem Dreißigjährigen Krieg waren überhaupt nur noch die großen Territorialstaaten in
+            der Lage, die enormen Finanzmittel für Festungen und Artillerie aufzubringen.</p>
+          <p>In der Übergangsphase 1450–1540 gab es eine Reihe von Versuchen an Türmen und Mauern,
+            die den Eindruck erwecken, als hätte die Fantasie die Entwerfer mehr beflügelt als die
+            Suche nach einem artillerietauglichen Abwehrsystem. Es dürfte um 1500 kaum eine Burg
+            gegeben haben, die nicht wenigstens mit einer einfachen Abwehr gegen Feuerwaffen
+            aufgerüstet worden wäre, und wenn es nur mit entsprechenden Schießscharten war.</p>
+          <p>Die Bemühungen der Festungsingenieure um eine Systematisierung der Fortifikationen
+            führten in Deutschland 1500–1750, in Anlehnung an mittelalterliche Konzeptionen, zu
+            ringsum geschlossenen Bauten; zunächst hatten sie mit der Rondellierung einen ersten
+            Erfolg, als gemauerte Rondelle oder als Erdrondelle (z. B. <italic>Mansfeld</italic> SA,
+            1517; <italic>Ziegenhain</italic> HE, 1537).</p>
+          <p>Die Wende zur Bastionierung war aber schon 1484 mit Befestigungen in der Toskana
+            eingeleitet worden, die alle wichtigen Elemente moderner Befestigung hatten: massive,
+            fünfeckige, wenn auch noch schmale Bastionen sowie Scharten für große Geschütze und
+            Flankierungsfeuer (altitalienische Manier). Ab 1542 mit der <italic>Zitadelle von
+              Gent</italic> entstand der erste hinter der Flanke zurückliegende, also gut gedeckte
+            Kanonenhof; zugleich wurden die Bastionen geräumiger und stumpfwinklig, und vor die
+            Kurtine wurde ein Ravelin gestellt (neuitalienische Manier). Mit dem Krieg zwischen dem
+            spanischen König und den Niederlanden ging die Führerschaft im Festungsbau für längere
+            Zeit an niederländische Ingenieure über. Angesichts der teuren und langwierigen
+            Mauerbauten der Italiener entwickelten sie mit der altniederländischen Manier ab 1570
+            ein günstigeres System: Bastionen aus Erde mit spitzem ausspringenden Winkel, oft ohne
+            zurückgezogene Kasematten, und zwischen den Bastionen Raveline (z. B.
+              <italic>Bourtange</italic> NL). Diese einfache, aber konsequente Bauweise führte zur
+            Übernahme dieses Systems nicht nur in den benachbarten Ländern (z. B.
+              <italic>Fredericia</italic> DK), sondern breitete sich bis nach Russland aus. Eine
+            Verbesserung stellte dann die neuniederländische Manier unter Coehoorn ab 1685 dar, bei
+            der Haupt- und Niederwall durch einen Graben getrennt, die vor dem Hauptgraben liegenden
+            Werke vermehrt und zahlreiche unterirdische Bauten angelegt wurden.</p>
+          <p>Die bis hierhin entwickelten Befestigungen bildeten ein ringsum geschlossenes System,
+            dann aber versuchte Vauban ab 1660, die Festungswerke mehr dem Gelände anzupassen, als
+            eine völlig symmetrische Anlage zu konzipieren, und löste mit der Entwicklung seiner
+            Manieren einzelne Bauteile, wie die Bastionen oder den Niederwall, vom Festungskern,
+            indem er sie freistellte und als selbstständige Verteidigungsabschnitte betrachtete (z.
+            B. <italic>Neubreisach</italic> 1698); außerdem schuf er zur Landesverteidigung einen
+            dreifachen Festungsgürtel entlang der Grenze. Vauban hat die Befestigungen in anderen
+            Staaten maßgeblich beeinflusst, und zwar so maßgeblich und kontinuierlich, dass weithin
+            nur Vauban als Festungsingenieur namentlich bekannt ist. Fast gleichzeitig mit Vaubans
+            Manieren griff man mit dem Tenaillen-System auf ein geschlossenes System zurück: Dieses
+            hatte keine Bastionen mehr, sondern bestand nur aus einer zickzack-förmigen Umwallung,
+            einem echten Festungsstern (z. B. in <italic>Wesel</italic> 1730–1740).</p>
+          <p>Im 17. und 18. Jahrhundert galt das Entwerfen von Festungsplänen nicht nur als
+            Arbeitsgebiet von Ingenieuren bzw. Ingenieur-Offizieren, sondern auch als interessante
+            Aufgabe für adelige Herren, die oft eine militärische Ausbildung genossen hatten. Die
+            Faszination der geometrischen Formen der Fortifikationen ließ der Fantasie Raum für
+            unendlich viele Entwürfe. Festungsentwürfe wurden daher eine Art Gesellschaftsspiel. In
+            einer Zeit, als man der vollkommenen Geometrie einer Fortifikation einen höheren
+            Verteidigungswert als der Dicke der Mauern zutraute, wurden auch Festungsprojekte
+            realisiert, die geringen Verteidigungswert hatten, aber wegen ihrer auffallenden
+            Geometrie eine Besonderheit darstellten, z. B. die dreieckige Festung
+              <italic>Philippseck</italic> 1626–1628. Auch die Wissenschaften bemächtigten sich des
+            Themas: Nicht nur die kriegswissenschaftlichen Institute an den Universitäten brachten
+            entsprechende Veröffentlichungen heraus, auch Philosophen wie Christian Wolff nahmen den
+            Festungsbau als angewandte Geometrie in ihr Lehrprogramm auf.</p>
+          <p>Neue Lösungen verlangte die Praxis, als sich nach dem Dreißigjährigen Krieg immer
+            deutlicher herausstellte, dass beim Festungskrieg das eigentliche Schutzobjekt, die
+            Stadt, Garnison oder Residenz, unverhältnismäßig unter der Beschießung ihrer Befestigung
+            litt. So entstand ein Konzept (altpreußische Manier genannt), die alte
+            Befestigungsmethode für den Kern zu belassen, aber einen Belagerer rund 1 km weit vor
+            dem Festungskern durch einen Gürtel detachierter Forts aufzuhalten und den Zwischenraum
+            für die Unterbringung der Truppen zu nutzen. Eine solche Lösung realisierte erstmals
+            Maximilian von Welsch ab 1713 in <italic>Mainz</italic>. Preußen führte dieses System
+            weiter (z. B. <italic>Schweidnitz</italic> 1747).</p>
+          <p>Zwischen 1815 und 1860 wurde in Preußen, Bayern und Österreich das System der
+            aufgelösten Front weiterentwickelt, indem jetzt auch der Festungskern, der eine
+            polygonale Umwallung erhielt, mit selbstständig operierenden Kaponnieren mit Vorwerken
+            versehen wurde (Neue Deutsche Befestigung, z. B. in <italic>Germersheim</italic>
+            1834–1855). Die Auflösung des alten Festungsschemas wurde dann durch die Entwicklung
+            neuer Artillerietechniken erheblich beschleunigt. 1860 erfolgte die Einführung der
+            gezogenen Geschütze mit Langgeschossen, so dass nun die Kette der Forts etwa 5 km vor
+            der Kernumwallung liegen musste. Zugleich setzte man auch statt des langsam bedienbaren
+            Vorderladers einen weiterentwickelten Hinterlader ein. Hatte man bis dahin aus Mörsern
+            Granaten geworfen, deren Eindringtiefe gering war, so verwendete man ab 1883
+            Sprenggranaten, gegen deren Durchschlagskraft man immer stärkere Mittel einsetzen
+            musste, zunächst einfachen Beton, dann bewehrten Beton und schließlich Stahlpanzerungen.
+            Mit der Ablösung des Schwarzpulvers durch immer stärkere Treibmittel musste der Abstand
+            zu Siedlungen bald auf 15 km vergrößert werden. Am Ende der Festungsentwicklung kamen
+            schließlich nur noch ausgewählte Geländeabschnitte für die Linienbefestigungen des 20.
+            Jahrhunderts in Frage.</p>
+        </sec>
+        <sec>
+          <title>
+            <italic>Schleifung und Denkmalschutz</italic>
+          </title>
+          <p>Mit <italic>Kaiserslautern</italic> hatte 1703 die Entfestigung vieler Städte begonnen,
+            es folgten einige Städte noch vor dem Siebenjährigen Krieg und bis etwa 1820 die
+            überwiegende Zahl der Städte Deutschlands. Die Landesherren stellten angesichts der
+            verheerenden Zerstörungen durch die meistens erfolgreiche Belagerungsartillerie den
+            Nutzen von Festungsanlagen in Frage, ja hielten sie für ihre Residenzen und Hauptstädte
+            für gefährlich und konzentrierten ihre Verteidigungsanstrengungen auf die großen
+            Landesfestungen. Außerdem argumentierten manche Stadtregierungen mit den Einengungen
+            durch das Korsett der Befestigung, der Festungsstatus würde die Stadtentwicklung
+            behindern, und drängten auf Schleifung. Manche Städte nutzten wenigstens die Chance, auf
+            dem ehemaligen Wallgelände öffentliche Parks anzulegen, wie z. B. Leipzig 1776, bei
+            anderen ist, wie z. B. in <italic>Kassel</italic>, die Fortifikation nicht einmal mehr
+            am Stadtgrundriss ablesbar.</p>
+          <p>Die Reaktion auf eine solche »Flächensanierung« zugunsten einer als fortschrittlich
+            angesehenen Stadtentwicklung war dann eine preußische Kabinettsordre von 1830, die den
+            Städten die willkürliche Abtragung ihrer Verteidigungsanlagen verbot. Das Ergebnis war
+            aber ähnlich wie heute: An solche Denkmalschutzverfügungen hielt man sich nur halbherzig
+            oder strich diese Bauzeugnisse bis in die Frühzeit des 20. Jahrhunderts rigoros aus dem
+            Stadt- und Landschaftsbild. Aber auch der Verordnungsgeber selber hielt sich nicht an
+            seine Verordnung, sondern befahl z. B. 1859 die Schleifung der Festung
+              <italic>Jülich</italic> und gab sie dann zu Belagerungs- und Sprengübungen frei.</p>
+          <p>Das Engagement von staatlichen und kommunalen Stellen für den Erhalt von Denkmalen ist
+            heute überall deutlich sichtbar; die öffentliche Meinung setzt sich seit dem
+            Denkmalschutzjahr 1975 auch für die Positionen des offiziellen Denkmalschutzes ein.
+            Dabei ist es aber offenkundig, dass es schwierig ist, für Baumaßnahmen an einer
+            Kasematte oder Bastion einer ehemaligen Festung Verständnis zu finden. Der Grund liegt
+            zunächst in dem wenig malerischen, sondern eher kühlen Erscheinungsbild solcher durch
+            die Technik bestimmten Objekte; daher billigt man solchen Militär-Ingenieurbauten meist
+            keinen Denkmalcharakter zu, obwohl sie, wie. z. B. die Festungsbauten des Deutschen
+            Bundes von unbestritten großer gestalterischer Qualität sind. Für ehemalige militärische
+            Einrichtungen wie Festungen kommen noch Probleme der Identifikation hinzu.
+            Identifikation fällt leicht, wenn es sich um die Stadtbefestigung mit Mauern und Türmen
+            handelt, die meistens mit dem Geld der Bürger gebaut und unterhalten worden ist, während
+            Festungsanlagen der Bevölkerung fast immer aufgezwungen wurden, die sich zudem
+            eingesperrt vorkam.</p>
+          <p>Burgen sind im allgemeinen Bewusstsein seit der Romantisierung des Mittelalters stark
+            verklärt, für Fremde zu touristischen Attraktionen und für die Bewohner zu
+            Identifikationspunkten (und umsatzfördernden Objekten) geworden. Eine Festung jedoch,
+            bei der es kaum emotionale Anklänge gibt, findet keinen vergleichbaren Widerhall, auch
+            nicht in der offiziellen Denkmalpflege oder der universitären Kunstwissenschaft. Noch
+            1964 hieß es im <italic>Dehio-Handbuch</italic> über die <italic>Festung
+              Hochburg</italic> in Baden: »Über dem historischen und malerischen Wert kommt ein
+            kunstgeschichtlicher kaum in Betracht.« Dennoch hat an einigen Lehrstühlen für Bau- und
+            Kunstgeschichte ein Umdenken stattgefunden; denn in der Forschungsdatenbank des
+            Deutschen Dokumentationszentrums für Kunstgeschichte sind immerhin schon zum Thema
+            Festungen zahlreiche Magisterarbeiten und Dissertationen aus den letzten Jahren
+            aufgenommen.</p>
+          <p>In Frankreich, England, Malta oder in Polen stehen solche Militärbauten unter dem
+            Zeichen des Nationalverständnisses. In Estland, wo es nur wenige Festungen gibt, werden
+            einfache Militärunterstände aus der letzten russischen Besatzungszeit unter Schutz
+            gestellt. Sogar eine völlige Wiederherstellung von weitgehend geschleiften
+            Festungsanlagen ist in den Niederlanden in <italic>Bourtange</italic> durch einen
+            Bebauungsplan durchgeführt worden. Dasselbe hat sich die Stadt
+              <italic>Slavonski-Brod</italic> in Kroatien zum Ziel gesetzt, eine Grenzstadt zu
+            Bosnien hin. Auf der Kanalinsel <italic>Guernsey</italic> werden die Befestigungsbauten
+            der Deutschen Wehrmacht, die von hervorragender Architektur aus der Bauhausschule sind,
+            von einem Verein unterhalten. Sogar in Polen bemüht man sich inzwischen, die
+            friderizianischen Festungen in Schlesien wieder sichtbar zu machen. Doch gibt es auch in
+            Deutschland viele Beispiele für den Einsatz von Städten und Bundesländern für ihre
+            Festungen, z. B. in <italic>Würzburg</italic>, <italic>Ingolstadt</italic>,
+              <italic>Spandau</italic> oder <italic>Erfurt</italic>, oder für den Einsatz von
+            privaten Gruppen wie in <italic>Ulm</italic> oder <italic>Dresden</italic>.</p>
+          <p>Die Spannweite der Nutzungen reicht heute schon von Musikschulen wie in
+              <italic>Wesel</italic>, Jugendherbergen wie in <italic>Ehrenbreitstein</italic>,
+            Verwaltungseinrichtungen wie in <italic>Minden</italic> oder <italic>Mainz</italic>,
+            Gefängnissen wie in <italic>Untermaßfeld</italic>, Gaststätten und Museen wie fast in
+            allen größeren Festungen bis zu Ateliers und Gewerbebetrieben wie in
+              <italic>Germersheim</italic> oder <italic>Ingolstadt</italic>, oder was die
+            Festungsgräben angeht, von Parkplätzen wie in <italic>Würzburg</italic> bis hin zu
+            Kinderspielplätzen.</p>
+          <p>Die Festungsforschung in Deutschland hatte sich vor dem letzten Krieg überwiegend mit
+            der Bedeutung von Festungen für die Kriegsgeschichte beschäftigt. Danach hat die
+            Forschung sich der Baugeschichte einzelner Festungen angenommen; doch fehlen für die
+            rund 500 Festungen noch heute weitgehend substantielle Untersuchungen; als beispielhaft
+            ist hier aber die Erforschung der <italic>Wülzburg</italic> zu erwähnen. Untersuchungen,
+            die über mehrere Regionen greifen, sowie zur Kultur-, Sozial- und Wirtschaftsgeschichte
+            sind ebenfalls noch selten. Selbst wenn die Quellenlage zur Beurteilung solcher
+            Zusammenhänge schlecht ist, darf man davon ausgehen, dass die künftige Forschung solche
+            Lücken schließen kann. <italic>E. B.</italic></p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back/>
+</article>
